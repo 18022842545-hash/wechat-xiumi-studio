@@ -1,0 +1,291 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="referrer" content="no-referrer" />
+  <title>本地秀米高定排版工作台 · WeChat Xiumi Studio</title>
+  <link rel="stylesheet" href="/css/studio.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <!-- Top Header -->
+    <header class="topbar">
+      <div class="brand-group">
+        <div class="brand-logo">秀</div>
+        <div class="brand-title">本地秀米工作台</div>
+        <span class="pill" id="asset-count-pill">加载素材中...</span>
+        <a class="nav-link-btn" href="/catalog-viewer.html" target="_blank" rel="noopener">全景素材画廊</a>
+      </div>
+
+      <div class="top-controls">
+        <select id="draft-select" title="切换当前草稿"></select>
+        <button id="btn-new-draft" type="button">+ 新建样刊</button>
+        <button id="btn-del-draft" class="btn-danger" type="button">删除</button>
+        <span class="pill ok" id="save-status-pill">已就绪</span>
+        <span class="pill" id="ai-status-pill">检查引擎中...</span>
+        <button id="btn-ai-config" type="button">引擎设置</button>
+      </div>
+
+      <div class="top-actions">
+        <button id="btn-html-modal" type="button">导入/导出HTML</button>
+        <button id="btn-png-modal" class="btn-accent" type="button">导出@2x审稿长图</button>
+        <button id="btn-copy-wechat" class="btn-primary" type="button">一键复制进公众号</button>
+      </div>
+    </header>
+
+    <!-- Main 3-Column Workspace -->
+    <main class="workspace">
+      <!-- Left Sidebar -->
+      <aside class="left-panel">
+        <nav class="tab-strip" id="left-tabs">
+          <button class="tab-btn active" data-tab="styles" type="button">整套样刊</button>
+          <button class="tab-btn" data-tab="blocks" type="button">版式组件</button>
+          <button class="tab-btn" data-tab="artword" type="button">艺术字工坊</button>
+          <button class="tab-btn" data-tab="stickers" type="button">贴纸图案</button>
+          <button class="tab-btn" data-tab="frames" type="button">边框相框</button>
+          <button class="tab-btn" data-tab="gifs" type="button">动图互动</button>
+          <button class="tab-btn" data-tab="textures" type="button">纸纹背景</button>
+          <button class="tab-btn" data-tab="uploads" type="button">我的素材</button>
+        </nav>
+
+        <div class="filter-bar" id="library-filters">
+          <div class="filter-row">
+            <select id="filter-style">
+              <option value="">全部 6 种风格</option>
+            </select>
+            <select id="filter-tier">
+              <option value="all">全部级别</option>
+              <option value="open_free">开源永久免费</option>
+              <option value="free">秀米免费</option>
+              <option value="vip">秀米VIP</option>
+              <option value="custom">本地上传</option>
+            </select>
+          </div>
+          <div class="filter-row">
+            <input id="filter-search" type="search" placeholder="筛选本地已收录素材/模板..." />
+          </div>
+          <div class="insert-mode-bar" id="sticker-mode-bar" style="display:none;">
+            <span>点击贴纸动作：</span>
+            <select id="sticker-insert-mode">
+              <option value="standalone">插入独立贴纸块</option>
+              <option value="corner">贴为当前选中块角标</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="library-scroll" id="library-content"></div>
+      </aside>
+
+      <!-- Center WYSIWYG Mobile Canvas -->
+      <section class="center-stage">
+        <div class="canvas-toolbar">
+          <div class="toolbar-group">
+            <button id="btn-w-375" type="button" class="btn-primary">375px 手机</button>
+            <button id="btn-w-480" type="button">480px 宽屏</button>
+            <button id="btn-undo" type="button" title="Ctrl+Z">↶ 撤销</button>
+            <button id="btn-redo" type="button" title="Ctrl+Y">↷ 重做</button>
+          </div>
+          <div class="toolbar-group">
+            <button data-fmt="bold" type="button"><strong>B</strong> 加粗</button>
+            <button data-fmt="primary" type="button">主色字</button>
+            <button data-fmt="accent" type="button">强调色</button>
+            <button data-fmt="highlight" type="button">底色荧光</button>
+            <button data-fmt="clear" type="button">清格式</button>
+            <button id="btn-clear-bg" type="button">清底纹</button>
+          </div>
+        </div>
+
+        <div class="draft-meta-bar">
+          <input id="draft-title-input" type="text" placeholder="推文标题（如：初冬午后茶话小记）" />
+          <input id="draft-summary-input" type="text" placeholder="推文摘要 / 一句话引言" />
+        </div>
+
+        <div class="stage-scroll">
+          <div class="phone-shell" id="phone-shell">
+            <div class="phone-notch">微信公众号排版实时画布 · 点击文字直接编辑</div>
+            <div id="reader-paper"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Right Sidebar: AI Quantitative Composer + Redline Radar -->
+      <aside class="right-panel">
+        <section class="panel-box">
+          <h3>
+            <span>AI 双引擎定量排版</span>
+            <span class="pill" id="quota-preview-badge">配额就绪</span>
+          </h3>
+          <div class="form-grid">
+            <div class="field">
+              <label for="ai-engine">推理引擎</label>
+              <select id="ai-engine">
+                <option value="auto">自动优先 Codex / 备选 DeepSeek</option>
+                <option value="codex">本地 Codex CLI</option>
+                <option value="deepseek">DeepSeek API</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="ai-style">目标风格包</label>
+              <select id="ai-style"></select>
+            </div>
+          </div>
+
+          <div class="field">
+            <label>定量素材配额（严格从精选库中选材）</label>
+            <div class="quota-grid">
+              <div class="quota-item"><span>贴纸</span><input id="q-stickers" type="number" min="0" max="10" value="2" /></div>
+              <div class="quota-item"><span>角标</span><input id="q-artwords" type="number" min="0" max="6" value="2" /></div>
+              <div class="quota-item"><span>动图</span><input id="q-gifs" type="number" min="0" max="6" value="1" /></div>
+              <div class="quota-item"><span>相框</span><input id="q-frames" type="number" min="0" max="6" value="2" /></div>
+              <div class="quota-item"><span>底纹</span><input id="q-bg" type="number" min="0" max="3" value="1" /></div>
+            </div>
+          </div>
+
+          <div class="field">
+            <label for="ai-story">活动真实事实 / 素材文稿</label>
+            <textarea id="ai-story" rows="4" placeholder="粘贴活动经过、时间地点、真实同学感言与重点要点（绝不虚构）。"></textarea>
+          </div>
+          <div class="field">
+            <label for="ai-prompt">排版补充指令</label>
+            <input id="ai-prompt" type="text" placeholder="如：温暖克制、分成三节、末尾加互动信封" />
+          </div>
+          <div class="filter-row">
+            <button id="btn-preview-quota" type="button">预览配额选材</button>
+            <button id="btn-ai-compose" class="btn-primary" type="button">AI 一键生成推文</button>
+          </div>
+          <div id="ai-log" style="font-size:11px;color:var(--muted);line-height:1.5;"></div>
+        </section>
+
+        <section class="panel-box">
+          <h3>
+            <span>实时避敏与合规雷达</span>
+            <span class="pill" id="lint-stats-pill">0 字</span>
+          </h3>
+          <div class="form-grid">
+            <div class="field">
+              <label for="lint-mode">避敏规则模式</label>
+              <select id="lint-mode">
+                <option value="class-unofficial">班级非官方日常避敏</option>
+                <option value="general-event">常规公开活动</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="export-target">当前导出目标</label>
+              <select id="export-target">
+                <option value="wechat">微信原生（保留SVG互动）</option>
+                <option value="xiumi">秀米导出（自动转零SVG）</option>
+              </select>
+            </div>
+          </div>
+          <div class="field">
+            <label for="custom-forbidden">自定义禁用词（逗号分隔）</label>
+            <input id="custom-forbidden" type="text" placeholder="可输入额外需要避开的词..." />
+          </div>
+          <div class="lint-status pass" id="lint-status-box">检查通过 · 可放心导出</div>
+          <div class="issue-list" id="lint-issues"></div>
+        </section>
+      </aside>
+    </main>
+  </div>
+
+  <!-- Modal 1: Click Image Slot -> Upload Local Photo or Pick Catalog -->
+  <div class="modal-backdrop" id="image-picker-modal">
+    <div class="modal-card">
+      <div class="modal-head">
+        <span>更换当前图片 / 上传本地现场照</span>
+        <button data-close-modal="image-picker-modal" type="button">关闭</button>
+      </div>
+      <div class="modal-body">
+        <div class="dropzone" id="slot-upload-box">
+          <p style="margin:0 0 8px;font-weight:600;">上传本地实拍照片（PNG / JPG / GIF / WebP）直接替换当前图片</p>
+          <input id="slot-file-input" type="file" accept="image/png,image/jpeg,image/gif,image/webp" />
+        </div>
+        <div style="font-weight:600;font-size:12px;">或从已收录素材中挑选替换：</div>
+        <div class="asset-grid" id="slot-catalog-grid" style="grid-template-columns:repeat(4,1fr);max-height:320px;overflow-y:auto;"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 2: @2x PNG Teacher Review Export + Copyable WeChat Messages -->
+  <div class="modal-backdrop" id="png-export-modal">
+    <div class="modal-card" style="width:min(880px,96vw);">
+      <div class="modal-head">
+        <span>导出 @2x 超清审稿长图 + 老师汇报话术箱</span>
+        <button data-close-modal="png-export-modal" type="button">关闭</button>
+      </div>
+      <div class="modal-body">
+        <div class="png-split">
+          <div>
+            <div class="png-preview-pane" id="png-preview-pane">正在生成 @2x 审稿长图...</div>
+            <div style="margin-top:8px;display:flex;gap:8px;">
+              <a id="png-download-link" class="nav-link-btn" download="wechat-preview-2x.png" style="flex:1;justify-content:center;background:var(--primary);color:#fff;border-color:var(--primary);font-weight:600;">下载 @2x 高清长图 (.png)</a>
+            </div>
+          </div>
+          <div>
+            <div style="font-weight:700;margin-bottom:8px;">搭配长图发给老师的微信话术（点击复制）</div>
+            <div id="review-messages-list"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 3: Bidirectional Xiumi / WeChat HTML Import & Export -->
+  <div class="modal-backdrop" id="html-modal">
+    <div class="modal-card">
+      <div class="modal-head">
+        <span>双向秀米 / 微信原生 HTML 导入与导出</span>
+        <button data-close-modal="html-modal" type="button">关闭</button>
+      </div>
+      <div class="modal-body">
+        <div class="filter-row">
+          <button id="btn-view-wechat-html" type="button" class="btn-primary">查看微信原生代码（含互动SVG）</button>
+          <button id="btn-view-xiumi-html" type="button">查看秀米兼容代码（纯内联零SVG）</button>
+          <button id="btn-copy-raw-html" type="button">复制下方代码</button>
+          <button id="btn-import-raw-html" class="btn-accent" type="button">把粘贴的秀米HTML导入画布</button>
+        </div>
+        <textarea id="html-code-box" rows="16" style="width:100%;font-family:Consolas,monospace;font-size:12px;padding:10px;border:1px solid var(--border);border-radius:8px;"></textarea>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 4: Codex & DeepSeek Engine Settings -->
+  <div class="modal-backdrop" id="ai-config-modal">
+    <div class="modal-card" style="width:min(540px,95vw);">
+      <div class="modal-head">
+        <span>Codex 与 DeepSeek 引擎配置</span>
+        <button data-close-modal="ai-config-modal" type="button">关闭</button>
+      </div>
+      <div class="modal-body">
+        <div class="panel-box">
+          <div><strong>本地 Codex 状态：</strong><span id="modal-codex-info">检查中...</span></div>
+          <div style="font-size:12px;color:var(--muted);">已通过本地 Windows Store Codex CLI 校验；也可在项目内使用 Codex 插件（MCP）直接推送草稿。</div>
+        </div>
+        <div class="panel-box">
+          <div class="field">
+            <label for="cfg-ds-key">DeepSeek API Key（仅保存在本地被 git 忽略的 .local-secrets.json，留空则不改动当前密钥）</label>
+            <input id="cfg-ds-key" type="password" placeholder="sk-..." />
+          </div>
+          <div class="form-grid">
+            <div class="field">
+              <label for="cfg-ds-base">DeepSeek Base URL</label>
+              <input id="cfg-ds-base" type="url" value="https://api.deepseek.com" />
+            </div>
+            <div class="field">
+              <label for="cfg-ds-model">模型名称</label>
+              <input id="cfg-ds-model" type="text" value="deepseek-chat" />
+            </div>
+          </div>
+          <div id="modal-ds-info" style="font-size:12px;color:var(--muted);"></div>
+          <button id="btn-save-ai-cfg" class="btn-primary" type="button">保存 DeepSeek 配置并刷新状态</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script type="module" src="/js/studio-app.js"></script>
+</body>
+</html>

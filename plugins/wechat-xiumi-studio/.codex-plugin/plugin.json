@@ -1,0 +1,1 @@
+{"name":"wechat-xiumi-studio","version":"1.0.0","description":"本地素材选配、排版检查与草稿同步","skills":"./skills","mcpServers":"./.mcp.json","requires_local_executor":true,"interface":{"displayName":"秀米高定推文工作台","icon":"./assets/icon.svg"}}

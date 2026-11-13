@@ -1,0 +1,1 @@
+{"mcpServers":{"wechat-xiumi-studio":{"command":"node","args":["${PLUGIN_ROOT}/server/mcp-server.mjs"]}}}

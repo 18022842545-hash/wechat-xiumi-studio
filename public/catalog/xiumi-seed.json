@@ -1,0 +1,578 @@
+{
+  "count": 35,
+  "assets": [
+    {
+      "id": "xm_frame_001",
+      "name": "极光微光渐变圆角气泡框 (适合同窗现场应援群聊弹幕)",
+      "category": "边框相框",
+      "subcategory": "边框/票据/徽章",
+      "styles": [
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/952f54d105d9fd5c74f3b363e0d786b1_sz-41870.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/952f54d105d9fd5c74f3b363e0d786b1_sz-41870.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_frame_002",
+      "name": "藏蓝夜色椭圆微光气泡框 (适合夜晚深情心声/报幕弹幕)",
+      "category": "边框相框",
+      "subcategory": "边框/票据/徽章",
+      "styles": [
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/e3d3fd71cdffa3da17050d1533b1acc6_sz-14439.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/e3d3fd71cdffa3da17050d1533b1acc6_sz-14439.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_frame_003",
+      "name": "复古四角星车票框 (适合门票/演出现场入场券卡片)",
+      "category": "边框相框",
+      "subcategory": "边框/票据/徽章",
+      "styles": [
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/42461885620f557ad2b6055ca4ad3d83_sz-11378.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/42461885620f557ad2b6055ca4ad3d83_sz-11378.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_frame_004",
+      "name": "复古印章边框 (适合信笺盖印/手账记录)",
+      "category": "边框相框",
+      "subcategory": "边框/票据/徽章",
+      "styles": [
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/fe0b980f6bfd16a94f20654d273a830f_sz-8817.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/fe0b980f6bfd16a94f20654d273a830f_sz-8817.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_frame_005",
+      "name": "星环徽章双层圆框 (适合铜奖徽章与点唱机黑胶唱片外圈)",
+      "category": "边框相框",
+      "subcategory": "边框/票据/徽章",
+      "styles": [
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/5ea06b48d81da84fa89373d729793043_sz-46357.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/5ea06b48d81da84fa89373d729793043_sz-46357.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_photo_006",
+      "name": "舞台冷暖交错霓虹光束摄影图（step_244_idx1，无杂物）",
+      "category": "实拍氛围图",
+      "subcategory": "舞台/星夜光影",
+      "styles": [
+        "舞台热浪",
+        "文艺纸感",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/3421347dbc5373ca0d598f0490a304bd_sz-703218.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/3421347dbc5373ca0d598f0490a304bd_sz-703218.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_photo_007",
+      "name": "霓虹紫青蓝舞台光影走廊（step_242_idx10，适合夜幕入场氛围）",
+      "category": "实拍氛围图",
+      "subcategory": "舞台/星夜光影",
+      "styles": [
+        "舞台热浪",
+        "文艺纸感",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/b01ff25bb3738148dc01422f671fdae1_sz-480736.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/b01ff25bb3738148dc01422f671fdae1_sz-480736.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_photo_008",
+      "name": "蓝紫极光光影隧道（step_242_idx11，适合尾声余韵或夜色主视觉）",
+      "category": "实拍氛围图",
+      "subcategory": "舞台/星夜光影",
+      "styles": [
+        "舞台热浪",
+        "文艺纸感",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/c2dbc7886dda40abe7f95c003c71cb86_sz-458858.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/c2dbc7886dda40abe7f95c003c71cb86_sz-458858.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_bg_009",
+      "name": "暖杏桃色胶片齿孔光晕底图（step_266_idx0）",
+      "category": "纸纹与底纹",
+      "subcategory": "弥散光晕/水波底图",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/a9a41fd1632d2726abfc1746e92e0750_sz-10416.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/a9a41fd1632d2726abfc1746e92e0750_sz-10416.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_bg_010",
+      "name": "柔白月晕微闪星尘底图（step_266_idx1，极佳纸感柔光）",
+      "category": "纸纹与底纹",
+      "subcategory": "弥散光晕/水波底图",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/8bc8adaac1d90deea7213951c7c90ec6_sz-19357.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/8bc8adaac1d90deea7213951c7c90ec6_sz-19357.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_bg_011",
+      "name": "浅青蓝极光弥散水波纹底图（step_266_idx2）",
+      "category": "纸纹与底纹",
+      "subcategory": "弥散光晕/水波底图",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/1e14709f046f3cf771dd2d93adbc9782_sz-369082.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/1e14709f046f3cf771dd2d93adbc9782_sz-369082.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_bg_012",
+      "name": "淡蓝极光柔雾渐变底图（step_266_idx5）",
+      "category": "纸纹与底纹",
+      "subcategory": "弥散光晕/水波底图",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/85db99ed1bc0a7ad79c4d28d58e7f694_sz-360636.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/85db99ed1bc0a7ad79c4d28d58e7f694_sz-360636.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_bg_013",
+      "name": "清透薄荷青蓝微光波纹（step_266_idx8）",
+      "category": "纸纹与底纹",
+      "subcategory": "弥散光晕/水波底图",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/2274f93a2ce66c2fe3a298e906d8415e_sz-215741.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/2274f93a2ce66c2fe3a298e906d8415e_sz-215741.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_art_014",
+      "name": "水彩暖珊瑚双音符 ♫（免抠PNG，step_258_idx5）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/459d8e0572673a31b1e2f73c3d90182c_sz-51028.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/459d8e0572673a31b1e2f73c3d90182c_sz-51028.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_art_015",
+      "name": "水彩暖珊瑚单音符 ♪（免抠PNG，step_258_idx6）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/e742049b298e89de13938ede0eb5cd4a_sz-49915.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/e742049b298e89de13938ede0eb5cd4a_sz-49915.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_art_016",
+      "name": "音符散点装饰（Xiumi原生免抠PNG）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/b8d8bec1ea68def9be68117e841f9190_sz-2541.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/b8d8bec1ea68def9be68117e841f9190_sz-2541.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "divider",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_art_017",
+      "name": "音乐符号装饰（Xiumi原生免抠PNG）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/b076b6e8170c20cbecd3329d96e8675b_sz-8726.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/b076b6e8170c20cbecd3329d96e8675b_sz-8726.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_art_018",
+      "name": "金色萨克斯剪影图标（step_260_idx1）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/e55aee7cc4bb01e5c3e19cd853a1c58f_sz-5657.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/e55aee7cc4bb01e5c3e19cd853a1c58f_sz-5657.svg",
+      "tier": "vip",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_art_019",
+      "name": "手绘复古磁带插画（step_260_idx4）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/fac734bd4ab938e79651c51614679ae4_sz-107167.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/fac734bd4ab938e79651c51614679ae4_sz-107167.svg",
+      "tier": "vip",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_art_020",
+      "name": "手绘月桂盾牌荣誉勋章（step_250_idx0，非AI质感）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/f4db150a6cef7440d49a7e0289b002c6_sz-363044.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/f4db150a6cef7440d49a7e0289b002c6_sz-363044.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "badge",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_art_021",
+      "name": "浅米金温柔丝带小徽章（step_250_idx2）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/6e6d5e98938855cc46abb1c97583eff0_sz-17674.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/6e6d5e98938855cc46abb1c97583eff0_sz-17674.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "badge",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_folk_022",
+      "name": "秋叶单片",
+      "category": "贴纸与装饰",
+      "subcategory": "植物秋叶",
+      "styles": [
+        "文艺纸感",
+        "清新日常",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/248b1085bec44f8ba2e4ec8551c6ad2a_sz-205136.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/248b1085bec44f8ba2e4ec8551c6ad2a_sz-205136.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_folk_023",
+      "name": "跳舞企鹅_动态",
+      "category": "动图与微动效",
+      "subcategory": "趣味动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/2074b7aa49af6e5504f47b50c3190214_sz-137326.gif",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/2074b7aa49af6e5504f47b50c3190214_sz-137326.gif",
+      "tier": "free",
+      "mediaType": "gif",
+      "role": "sticker",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_folk_024",
+      "name": "跳舞企鹅_静态",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐元素",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/5228010ef5db67c49d1a69853606b67e_sz-67741.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/5228010ef5db67c49d1a69853606b67e_sz-67741.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_folk_025",
+      "name": "秋日枫叶",
+      "category": "贴纸与装饰",
+      "subcategory": "植物秋叶",
+      "styles": [
+        "文艺纸感",
+        "清新日常",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/e22bf2f69841d3f337650eabeea9e98e_sz-311397.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/e22bf2f69841d3f337650eabeea9e98e_sz-311397.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_folk_026",
+      "name": "秋叶图案",
+      "category": "贴纸与装饰",
+      "subcategory": "植物秋叶",
+      "styles": [
+        "文艺纸感",
+        "清新日常",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/0c96508bca7fce40d80c9afb3e1ad1af_sz-160089.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/0c96508bca7fce40d80c9afb3e1ad1af_sz-160089.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_extra_027",
+      "name": "金色星芒圆章点缀",
+      "category": "贴纸与装饰",
+      "subcategory": "星芒印章",
+      "styles": [
+        "文艺纸感",
+        "荣誉喜报",
+        "舞台热浪"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/aca85491ac22f2b62d84494fd07f3b26_sz-59595.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/aca85491ac22f2b62d84494fd07f3b26_sz-59595.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "badge",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_extra_028",
+      "name": "手绘野花角落点缀",
+      "category": "贴纸与装饰",
+      "subcategory": "植物花卉",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/6eda388b8a3a730359d1b17fc11524e9_sz-90526.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_446,w_500,x_0,y_0/format,webp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/6eda388b8a3a730359d1b17fc11524e9_sz-90526.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_extra_029",
+      "name": "极光信笺左折角装饰PNG",
+      "category": "边框相框",
+      "subcategory": "信笺角标",
+      "styles": [
+        "文艺纸感"
+      ],
+      "url": "https://statics.xiumi.us/stc/images/templates-assets/tpl-paper/image/b60df80d2fc22c08864135db43971985-sz_3859.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/stc/images/templates-assets/tpl-paper/image/b60df80d2fc22c08864135db43971985-sz_3859.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_extra_030",
+      "name": "光影走廊深蓝霓虹通道(step_242_idx9)",
+      "category": "实拍氛围图",
+      "subcategory": "舞台/星夜光影",
+      "styles": [
+        "舞台热浪"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/f4ae0b53a47fce34cc8c3f4540e942ea_sz-519940.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/f4ae0b53a47fce34cc8c3f4540e942ea_sz-519940.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_extra_031",
+      "name": "温柔粉调星云柔光(step_244_idx10)",
+      "category": "实拍氛围图",
+      "subcategory": "自然/光影氛围",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/499a6a159a5bfdeaa86f7ce1c90bbc47_sz-466129.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/499a6a159a5bfdeaa86f7ce1c90bbc47_sz-466129.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_extra_032",
+      "name": "丝带月桂荣誉小徽章(step_250_idx1)",
+      "category": "贴纸与装饰",
+      "subcategory": "勋章丝带",
+      "styles": [
+        "荣誉喜报",
+        "文艺纸感"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/7c6fe8a7221ce067da84059b21e2ed03_sz-22492.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/7c6fe8a7221ce067da84059b21e2ed03_sz-22492.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "badge",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_extra_033",
+      "name": "金色星环小奖章(step_250_idx3)",
+      "category": "贴纸与装饰",
+      "subcategory": "勋章丝带",
+      "styles": [
+        "荣誉喜报",
+        "舞台热浪"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/21671dbaa54a74ccfefec8be04c1919b_sz-18664.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/21671dbaa54a74ccfefec8be04c1919b_sz-18664.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "badge",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_extra_034",
+      "name": "极光清雾青绿渐变底纹(step_266_idx6)",
+      "category": "纸纹与底纹",
+      "subcategory": "弥散渐变",
+      "styles": [
+        "清新日常",
+        "文艺纸感"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/096adf6fa6e57051c85a3567afab8b45_sz-326145.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/096adf6fa6e57051c85a3567afab8b45_sz-326145.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened"
+    },
+    {
+      "id": "xm_extra_035",
+      "name": "薄荷极光浅雾底图(step_266_idx11)",
+      "category": "纸纹与底纹",
+      "subcategory": "弥散渐变",
+      "styles": [
+        "清新日常",
+        "极简干货"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/c32ff23b3f8a82935d263a462371bffb_sz-252146.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/c32ff23b3f8a82935d263a462371bffb_sz-252146.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Local secrets & runtime user data
+.local-secrets.json
+.studio-root.json
+data/user-drafts/
+data/uploads/
+node_modules/
+.DS_Store
+Thumbs.db
+*.log

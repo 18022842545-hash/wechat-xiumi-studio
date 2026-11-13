@@ -1,0 +1,3958 @@
+{
+  "version": 1,
+  "total": 200,
+  "openCount": 54,
+  "xiumiCount": 146,
+  "assets": [
+    {
+      "id": "open_tape_01",
+      "name": "樱花腮红和纸胶带",
+      "label": "樱花腮红和纸胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-sakura-blush.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tape_02",
+      "name": "鼠尾草绿手账胶带",
+      "label": "鼠尾草绿手账胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild",
+        "minimal-mag"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-sage-leaf.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tape_03",
+      "name": "奶油格纹胶带",
+      "label": "奶油格纹胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "campus-paper",
+        "warm-honor",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-butter-grid.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tape_04",
+      "name": "牛皮纸拼贴胶带",
+      "label": "牛皮纸拼贴胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "campus-paper",
+        "retro-film"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-warm-kraft.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tape_05",
+      "name": "晴空斜纹胶带",
+      "label": "晴空斜纹胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "fresh-teambuild",
+        "minimal-mag"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-sky-stripe.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tape_06",
+      "name": "陶土波点和纸胶带",
+      "label": "陶土波点和纸胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "retro-film",
+        "warm-honor"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-terracotta-dot.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tape_07",
+      "name": "霓虹紫格纹胶带",
+      "label": "霓虹紫格纹胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "stage-heat",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-lavender-check.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tape_08",
+      "name": "极简炭黑编号胶带",
+      "label": "极简炭黑编号胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "minimal-mag",
+        "retro-film",
+        "stage-heat"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-ink-stamp.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_01",
+      "name": "米白亚麻纸纹",
+      "label": "米白亚麻纸纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "campus-paper",
+        "warm-honor"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-cream-linen.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_02",
+      "name": "暖调牛皮纸底纹",
+      "label": "暖调牛皮纸底纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "retro-film",
+        "campus-paper"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-kraft-grain.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_03",
+      "name": "手账圆点阵底纹",
+      "label": "手账圆点阵底纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "fresh-teambuild",
+        "campus-paper",
+        "minimal-mag"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-dot-grid.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_04",
+      "name": "方格笔记本纸纹",
+      "label": "方格笔记本纸纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "fresh-teambuild",
+        "minimal-mag"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-graph-notebook.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_05",
+      "name": "宣纸丝缕纹理",
+      "label": "宣纸丝缕纹理",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "campus-paper",
+        "warm-honor"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-rice-fiber.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_06",
+      "name": "森系浅绿格子纹",
+      "label": "森系浅绿格子纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "fresh-teambuild",
+        "campus-paper"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-sage-plaid.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_07",
+      "name": "温柔浅粉格纹",
+      "label": "温柔浅粉格纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "fresh-teambuild",
+        "warm-honor"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-blush-check.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_08",
+      "name": "暗夜剧场暗纹",
+      "label": "暗夜剧场暗纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "stage-heat",
+        "retro-film"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-charcoal-noise.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_09",
+      "name": "暖杏竖条纹底纹",
+      "label": "暖杏竖条纹底纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "warm-honor",
+        "campus-paper"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-warm-stripe.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_10",
+      "name": "信笺横线纸纹",
+      "label": "信笺横线纸纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "campus-paper",
+        "retro-film",
+        "minimal-mag"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-vintage-post.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_01",
+      "name": "双色闪耀四角星",
+      "label": "双色闪耀四角星",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "campus-paper",
+        "stage-heat",
+        "fresh-teambuild",
+        "retro-film",
+        "minimal-mag",
+        "warm-honor"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-sparkle-star.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_02",
+      "name": "手绘双心贴纸",
+      "label": "手绘双心贴纸",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild",
+        "warm-honor"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-double-heart.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_03",
+      "name": "礼物蝴蝶结贴纸",
+      "label": "礼物蝴蝶结贴纸",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "warm-honor",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-ribbon-bow.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_04",
+      "name": "复古拍立得相机图标",
+      "label": "复古拍立得相机图标",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "retro-film",
+        "fresh-teambuild",
+        "campus-paper"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-camera-snap.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_05",
+      "name": "森系橄榄枝叶贴纸",
+      "label": "森系橄榄枝叶贴纸",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild",
+        "warm-honor"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-laurel-leaf.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_06",
+      "name": "场记板胶片图标",
+      "label": "场记板胶片图标",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "retro-film",
+        "stage-heat"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-film-slate.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_07",
+      "name": "荣誉奖杯双色图标",
+      "label": "荣誉奖杯双色图标",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "warm-honor",
+        "minimal-mag"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-trophy-honor.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_08",
+      "name": "舞台声浪小喇叭",
+      "label": "舞台声浪小喇叭",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "stage-heat",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-megaphone.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_09",
+      "name": "小红花印章角标",
+      "label": "小红花印章角标",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "campus-paper",
+        "warm-honor",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-stamp-flower.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_10",
+      "name": "手绘双色大引号",
+      "label": "手绘双色大引号",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "campus-paper",
+        "stage-heat",
+        "fresh-teambuild",
+        "retro-film",
+        "minimal-mag",
+        "warm-honor"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-quote-mark.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_11",
+      "name": "折页书签标签",
+      "label": "折页书签标签",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "campus-paper",
+        "minimal-mag",
+        "retro-film"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-bookmark-tag.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_12",
+      "name": "音符节拍艺术标",
+      "label": "音符节拍艺术标",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "stage-heat",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-music-note.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_13",
+      "name": "方向指南针小标",
+      "label": "方向指南针小标",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "fresh-teambuild",
+        "minimal-mag",
+        "retro-film"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-compass-dir.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_14",
+      "name": "火漆信封小徽章",
+      "label": "火漆信封小徽章",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "campus-paper",
+        "warm-honor",
+        "retro-film"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-envelope-seal.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_15",
+      "name": "夜幕星月徽章",
+      "label": "夜幕星月徽章",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "stage-heat",
+        "campus-paper",
+        "retro-film"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-moon-star.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_16",
+      "name": "圆环序号底托",
+      "label": "圆环序号底托",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "minimal-mag",
+        "campus-paper",
+        "warm-honor"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-section-num.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_01",
+      "name": "胶带拍立得底框",
+      "label": "胶带拍立得底框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "fresh-teambuild",
+        "campus-paper",
+        "retro-film"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-polaroid-tape.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_02",
+      "name": "撕纸手记边框",
+      "label": "撕纸手记边框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-torn-note.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_03",
+      "name": "复古电影胶片相框",
+      "label": "复古电影胶片相框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "retro-film",
+        "stage-heat"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-filmstrip.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_04",
+      "name": "双线古典信笺框",
+      "label": "双线古典信笺框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "campus-paper",
+        "warm-honor"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-double-stamp.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_05",
+      "name": "波浪明信片邮戳框",
+      "label": "波浪明信片邮戳框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild",
+        "warm-honor"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-postcard-scallop.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_06",
+      "name": "杂志四角取景框",
+      "label": "杂志四角取景框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "minimal-mag",
+        "stage-heat",
+        "retro-film"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-corner-brackets.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_07",
+      "name": "纪念票根打孔框",
+      "label": "纪念票根打孔框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "retro-film",
+        "stage-heat",
+        "warm-honor"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-ticket-stub.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_08",
+      "name": "拱门橱窗边框",
+      "label": "拱门橱窗边框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-botanical-arch.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_09",
+      "name": "线圈活页本边框",
+      "label": "线圈活页本边框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "fresh-teambuild",
+        "campus-paper"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-notebook-spiral.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_10",
+      "name": "信封展开边框",
+      "label": "信封展开边框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "campus-paper",
+        "warm-honor"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-vintage-envelope.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_11",
+      "name": "斜角贴纸双框",
+      "label": "斜角贴纸双框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "fresh-teambuild",
+        "campus-paper"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-tape-photo.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_12",
+      "name": "美术馆卡纸画框",
+      "label": "美术馆卡纸画框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "minimal-mag",
+        "campus-paper"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-gallery-mat.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_01",
+      "name": "暖金闪烁星芒动图",
+      "label": "暖金闪烁星芒动图",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "campus-paper",
+        "stage-heat",
+        "fresh-teambuild",
+        "retro-film",
+        "minimal-mag",
+        "warm-honor"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "星星",
+        "闪烁"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/sparkle-twinkle.gif",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_02",
+      "name": "珊瑚红弹跳引导箭头",
+      "label": "珊瑚红弹跳引导箭头",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "fresh-teambuild",
+        "warm-honor",
+        "stage-heat"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "箭头",
+        "引导"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/arrow-bounce.gif",
+      "width": 64,
+      "height": 48,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_03",
+      "name": "漂浮双心手账动图",
+      "label": "漂浮双心手账动图",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild",
+        "warm-honor"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "爱心"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/heart-float.gif",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_04",
+      "name": "庆典彩屑礼花动图",
+      "label": "庆典彩屑礼花动图",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "stage-heat",
+        "warm-honor",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "礼花",
+        "喜报"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/confetti-burst.gif",
+      "width": 96,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_05",
+      "name": "舞台节拍音浪条",
+      "label": "舞台节拍音浪条",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "stage-heat",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "音乐",
+        "节拍"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/music-eq.gif",
+      "width": 64,
+      "height": 48,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_06",
+      "name": "旋转胶片盘微动图",
+      "label": "旋转胶片盘微动图",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "retro-film",
+        "campus-paper"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "胶片"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/film-reel-spin.gif",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_07",
+      "name": "流光波浪分割线动图",
+      "label": "流光波浪分割线动图",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild",
+        "minimal-mag"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "分割线"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/tape-wave.gif",
+      "width": 80,
+      "height": 36,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_08",
+      "name": "右滑查看引导动图",
+      "label": "右滑查看引导动图",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "campus-paper",
+        "stage-heat",
+        "fresh-teambuild",
+        "retro-film",
+        "minimal-mag",
+        "warm-honor"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "滑动提示"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/scroll-hint.gif",
+      "width": 72,
+      "height": 44,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "xm_frame_001",
+      "name": "极光微光渐变圆角气泡框 (适合同窗现场应援群聊弹幕)",
+      "category": "边框相框",
+      "subcategory": "边框/票据/徽章",
+      "styles": [
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/952f54d105d9fd5c74f3b363e0d786b1_sz-41870.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/952f54d105d9fd5c74f3b363e0d786b1_sz-41870.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "极光微光渐变圆角气泡框 (适合同窗现场应援群聊弹幕)"
+    },
+    {
+      "id": "xm_frame_002",
+      "name": "藏蓝夜色椭圆微光气泡框 (适合夜晚深情心声/报幕弹幕)",
+      "category": "边框相框",
+      "subcategory": "边框/票据/徽章",
+      "styles": [
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/e3d3fd71cdffa3da17050d1533b1acc6_sz-14439.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/e3d3fd71cdffa3da17050d1533b1acc6_sz-14439.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "藏蓝夜色椭圆微光气泡框 (适合夜晚深情心声/报幕弹幕)"
+    },
+    {
+      "id": "xm_frame_003",
+      "name": "复古四角星车票框 (适合门票/演出现场入场券卡片)",
+      "category": "边框相框",
+      "subcategory": "边框/票据/徽章",
+      "styles": [
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/42461885620f557ad2b6055ca4ad3d83_sz-11378.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/42461885620f557ad2b6055ca4ad3d83_sz-11378.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "复古四角星车票框 (适合门票/演出现场入场券卡片)"
+    },
+    {
+      "id": "xm_frame_004",
+      "name": "复古印章边框 (适合信笺盖印/手账记录)",
+      "category": "边框相框",
+      "subcategory": "边框/票据/徽章",
+      "styles": [
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/fe0b980f6bfd16a94f20654d273a830f_sz-8817.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/fe0b980f6bfd16a94f20654d273a830f_sz-8817.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "复古印章边框 (适合信笺盖印/手账记录)"
+    },
+    {
+      "id": "xm_frame_005",
+      "name": "星环徽章双层圆框 (适合铜奖徽章与点唱机黑胶唱片外圈)",
+      "category": "边框相框",
+      "subcategory": "边框/票据/徽章",
+      "styles": [
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/5ea06b48d81da84fa89373d729793043_sz-46357.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/5ea06b48d81da84fa89373d729793043_sz-46357.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "星环徽章双层圆框 (适合铜奖徽章与点唱机黑胶唱片外圈)"
+    },
+    {
+      "id": "xm_photo_006",
+      "name": "舞台冷暖交错霓虹光束摄影图（step_244_idx1，无杂物）",
+      "category": "实拍氛围图",
+      "subcategory": "舞台/星夜光影",
+      "styles": [
+        "舞台热浪",
+        "文艺纸感",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/3421347dbc5373ca0d598f0490a304bd_sz-703218.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/3421347dbc5373ca0d598f0490a304bd_sz-703218.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "舞台冷暖交错霓虹光束摄影图（step_244_idx1，无杂物）"
+    },
+    {
+      "id": "xm_photo_007",
+      "name": "霓虹紫青蓝舞台光影走廊（step_242_idx10，适合夜幕入场氛围）",
+      "category": "实拍氛围图",
+      "subcategory": "舞台/星夜光影",
+      "styles": [
+        "舞台热浪",
+        "文艺纸感",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/b01ff25bb3738148dc01422f671fdae1_sz-480736.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/b01ff25bb3738148dc01422f671fdae1_sz-480736.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "霓虹紫青蓝舞台光影走廊（step_242_idx10，适合夜幕入场氛围）"
+    },
+    {
+      "id": "xm_photo_008",
+      "name": "蓝紫极光光影隧道（step_242_idx11，适合尾声余韵或夜色主视觉）",
+      "category": "实拍氛围图",
+      "subcategory": "舞台/星夜光影",
+      "styles": [
+        "舞台热浪",
+        "文艺纸感",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/c2dbc7886dda40abe7f95c003c71cb86_sz-458858.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/c2dbc7886dda40abe7f95c003c71cb86_sz-458858.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "蓝紫极光光影隧道（step_242_idx11，适合尾声余韵或夜色主视觉）"
+    },
+    {
+      "id": "xm_bg_009",
+      "name": "暖杏桃色胶片齿孔光晕底图（step_266_idx0）",
+      "category": "纸纹与底纹",
+      "subcategory": "弥散光晕/水波底图",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/a9a41fd1632d2726abfc1746e92e0750_sz-10416.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/a9a41fd1632d2726abfc1746e92e0750_sz-10416.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "暖杏桃色胶片齿孔光晕底图（step_266_idx0）"
+    },
+    {
+      "id": "xm_bg_010",
+      "name": "柔白月晕微闪星尘底图（step_266_idx1，极佳纸感柔光）",
+      "category": "纸纹与底纹",
+      "subcategory": "弥散光晕/水波底图",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/8bc8adaac1d90deea7213951c7c90ec6_sz-19357.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/8bc8adaac1d90deea7213951c7c90ec6_sz-19357.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "柔白月晕微闪星尘底图（step_266_idx1，极佳纸感柔光）"
+    },
+    {
+      "id": "xm_bg_011",
+      "name": "浅青蓝极光弥散水波纹底图（step_266_idx2）",
+      "category": "纸纹与底纹",
+      "subcategory": "弥散光晕/水波底图",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/1e14709f046f3cf771dd2d93adbc9782_sz-369082.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/1e14709f046f3cf771dd2d93adbc9782_sz-369082.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "浅青蓝极光弥散水波纹底图（step_266_idx2）"
+    },
+    {
+      "id": "xm_bg_012",
+      "name": "淡蓝极光柔雾渐变底图（step_266_idx5）",
+      "category": "纸纹与底纹",
+      "subcategory": "弥散光晕/水波底图",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/85db99ed1bc0a7ad79c4d28d58e7f694_sz-360636.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/85db99ed1bc0a7ad79c4d28d58e7f694_sz-360636.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "淡蓝极光柔雾渐变底图（step_266_idx5）"
+    },
+    {
+      "id": "xm_bg_013",
+      "name": "清透薄荷青蓝微光波纹（step_266_idx8）",
+      "category": "纸纹与底纹",
+      "subcategory": "弥散光晕/水波底图",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/2274f93a2ce66c2fe3a298e906d8415e_sz-215741.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/2274f93a2ce66c2fe3a298e906d8415e_sz-215741.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "清透薄荷青蓝微光波纹（step_266_idx8）"
+    },
+    {
+      "id": "xm_art_014",
+      "name": "水彩暖珊瑚双音符 ♫（免抠PNG，step_258_idx5）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/459d8e0572673a31b1e2f73c3d90182c_sz-51028.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/459d8e0572673a31b1e2f73c3d90182c_sz-51028.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩暖珊瑚双音符 ♫（免抠PNG，step_258_idx5）"
+    },
+    {
+      "id": "xm_art_015",
+      "name": "水彩暖珊瑚单音符 ♪（免抠PNG，step_258_idx6）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/e742049b298e89de13938ede0eb5cd4a_sz-49915.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/e742049b298e89de13938ede0eb5cd4a_sz-49915.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩暖珊瑚单音符 ♪（免抠PNG，step_258_idx6）"
+    },
+    {
+      "id": "xm_art_016",
+      "name": "音符散点装饰（Xiumi原生免抠PNG）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/b8d8bec1ea68def9be68117e841f9190_sz-2541.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/b8d8bec1ea68def9be68117e841f9190_sz-2541.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "divider",
+      "source": "xiumi_screened",
+      "label": "音符散点装饰（Xiumi原生免抠PNG）"
+    },
+    {
+      "id": "xm_art_017",
+      "name": "音乐符号装饰（Xiumi原生免抠PNG）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/b076b6e8170c20cbecd3329d96e8675b_sz-8726.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/b076b6e8170c20cbecd3329d96e8675b_sz-8726.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "音乐符号装饰（Xiumi原生免抠PNG）"
+    },
+    {
+      "id": "xm_art_018",
+      "name": "金色萨克斯剪影图标（step_260_idx1）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/e55aee7cc4bb01e5c3e19cd853a1c58f_sz-5657.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/e55aee7cc4bb01e5c3e19cd853a1c58f_sz-5657.svg",
+      "tier": "vip",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "金色萨克斯剪影图标（step_260_idx1）"
+    },
+    {
+      "id": "xm_art_019",
+      "name": "手绘复古磁带插画（step_260_idx4）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/fac734bd4ab938e79651c51614679ae4_sz-107167.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/fac734bd4ab938e79651c51614679ae4_sz-107167.svg",
+      "tier": "vip",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "手绘复古磁带插画（step_260_idx4）"
+    },
+    {
+      "id": "xm_art_020",
+      "name": "手绘月桂盾牌荣誉勋章（step_250_idx0，非AI质感）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/f4db150a6cef7440d49a7e0289b002c6_sz-363044.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/f4db150a6cef7440d49a7e0289b002c6_sz-363044.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "badge",
+      "source": "xiumi_screened",
+      "label": "手绘月桂盾牌荣誉勋章（step_250_idx0，非AI质感）"
+    },
+    {
+      "id": "xm_art_021",
+      "name": "浅米金温柔丝带小徽章（step_250_idx2）",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐/徽章手绘",
+      "styles": [
+        "文艺纸感",
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/6e6d5e98938855cc46abb1c97583eff0_sz-17674.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/6e6d5e98938855cc46abb1c97583eff0_sz-17674.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "badge",
+      "source": "xiumi_screened",
+      "label": "浅米金温柔丝带小徽章（step_250_idx2）"
+    },
+    {
+      "id": "xm_folk_022",
+      "name": "秋叶单片",
+      "category": "贴纸与装饰",
+      "subcategory": "植物秋叶",
+      "styles": [
+        "文艺纸感",
+        "清新日常",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/248b1085bec44f8ba2e4ec8551c6ad2a_sz-205136.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/248b1085bec44f8ba2e4ec8551c6ad2a_sz-205136.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "秋叶单片"
+    },
+    {
+      "id": "xm_folk_023",
+      "name": "跳舞企鹅_动态",
+      "category": "动图与微动效",
+      "subcategory": "趣味动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/2074b7aa49af6e5504f47b50c3190214_sz-137326.gif",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/2074b7aa49af6e5504f47b50c3190214_sz-137326.gif",
+      "tier": "free",
+      "mediaType": "gif",
+      "role": "gif",
+      "source": "xiumi_screened",
+      "label": "跳舞企鹅_动态"
+    },
+    {
+      "id": "xm_folk_024",
+      "name": "跳舞企鹅_静态",
+      "category": "贴纸与装饰",
+      "subcategory": "音乐元素",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/5228010ef5db67c49d1a69853606b67e_sz-67741.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/5228010ef5db67c49d1a69853606b67e_sz-67741.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "跳舞企鹅_静态"
+    },
+    {
+      "id": "xm_folk_025",
+      "name": "秋日枫叶",
+      "category": "贴纸与装饰",
+      "subcategory": "植物秋叶",
+      "styles": [
+        "文艺纸感",
+        "清新日常",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/e22bf2f69841d3f337650eabeea9e98e_sz-311397.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/e22bf2f69841d3f337650eabeea9e98e_sz-311397.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "秋日枫叶"
+    },
+    {
+      "id": "xm_folk_026",
+      "name": "秋叶图案",
+      "category": "贴纸与装饰",
+      "subcategory": "植物秋叶",
+      "styles": [
+        "文艺纸感",
+        "清新日常",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/0c96508bca7fce40d80c9afb3e1ad1af_sz-160089.png",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/0c96508bca7fce40d80c9afb3e1ad1af_sz-160089.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "秋叶图案"
+    },
+    {
+      "id": "xm_extra_027",
+      "name": "金色星芒圆章点缀",
+      "category": "贴纸与装饰",
+      "subcategory": "星芒印章",
+      "styles": [
+        "文艺纸感",
+        "荣誉喜报",
+        "舞台热浪"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/aca85491ac22f2b62d84494fd07f3b26_sz-59595.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/aca85491ac22f2b62d84494fd07f3b26_sz-59595.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "badge",
+      "source": "xiumi_screened",
+      "label": "金色星芒圆章点缀"
+    },
+    {
+      "id": "xm_extra_028",
+      "name": "手绘野花角落点缀",
+      "category": "贴纸与装饰",
+      "subcategory": "植物花卉",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/6eda388b8a3a730359d1b17fc11524e9_sz-90526.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_446,w_500,x_0,y_0/format,webp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/6eda388b8a3a730359d1b17fc11524e9_sz-90526.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "手绘野花角落点缀"
+    },
+    {
+      "id": "xm_extra_029",
+      "name": "极光信笺左折角装饰PNG",
+      "category": "边框相框",
+      "subcategory": "信笺角标",
+      "styles": [
+        "文艺纸感"
+      ],
+      "url": "https://statics.xiumi.us/stc/images/templates-assets/tpl-paper/image/b60df80d2fc22c08864135db43971985-sz_3859.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/stc/images/templates-assets/tpl-paper/image/b60df80d2fc22c08864135db43971985-sz_3859.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "极光信笺左折角装饰PNG"
+    },
+    {
+      "id": "xm_extra_030",
+      "name": "光影走廊深蓝霓虹通道(step_242_idx9)",
+      "category": "实拍氛围图",
+      "subcategory": "舞台/星夜光影",
+      "styles": [
+        "舞台热浪"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/f4ae0b53a47fce34cc8c3f4540e942ea_sz-519940.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/f4ae0b53a47fce34cc8c3f4540e942ea_sz-519940.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "光影走廊深蓝霓虹通道(step_242_idx9)"
+    },
+    {
+      "id": "xm_extra_031",
+      "name": "温柔粉调星云柔光(step_244_idx10)",
+      "category": "实拍氛围图",
+      "subcategory": "自然/光影氛围",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/499a6a159a5bfdeaa86f7ce1c90bbc47_sz-466129.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/499a6a159a5bfdeaa86f7ce1c90bbc47_sz-466129.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "温柔粉调星云柔光(step_244_idx10)"
+    },
+    {
+      "id": "xm_extra_032",
+      "name": "丝带月桂荣誉小徽章(step_250_idx1)",
+      "category": "贴纸与装饰",
+      "subcategory": "勋章丝带",
+      "styles": [
+        "荣誉喜报",
+        "文艺纸感"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/7c6fe8a7221ce067da84059b21e2ed03_sz-22492.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/7c6fe8a7221ce067da84059b21e2ed03_sz-22492.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "badge",
+      "source": "xiumi_screened",
+      "label": "丝带月桂荣誉小徽章(step_250_idx1)"
+    },
+    {
+      "id": "xm_extra_033",
+      "name": "金色星环小奖章(step_250_idx3)",
+      "category": "贴纸与装饰",
+      "subcategory": "勋章丝带",
+      "styles": [
+        "荣誉喜报",
+        "舞台热浪"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/21671dbaa54a74ccfefec8be04c1919b_sz-18664.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/21671dbaa54a74ccfefec8be04c1919b_sz-18664.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "badge",
+      "source": "xiumi_screened",
+      "label": "金色星环小奖章(step_250_idx3)"
+    },
+    {
+      "id": "xm_extra_034",
+      "name": "极光清雾青绿渐变底纹(step_266_idx6)",
+      "category": "纸纹与底纹",
+      "subcategory": "弥散渐变",
+      "styles": [
+        "清新日常",
+        "文艺纸感"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/096adf6fa6e57051c85a3567afab8b45_sz-326145.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/096adf6fa6e57051c85a3567afab8b45_sz-326145.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "极光清雾青绿渐变底纹(step_266_idx6)"
+    },
+    {
+      "id": "xm_extra_035",
+      "name": "薄荷极光浅雾底图(step_266_idx11)",
+      "category": "纸纹与底纹",
+      "subcategory": "弥散渐变",
+      "styles": [
+        "清新日常",
+        "极简干货"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/c32ff23b3f8a82935d263a462371bffb_sz-252146.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/c32ff23b3f8a82935d263a462371bffb_sz-252146.png",
+      "tier": "vip",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "薄荷极光浅雾底图(step_266_idx11)"
+    },
+    {
+      "id": "xm_形状_40",
+      "name": "几何雪花/星点 #40",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/0cbf6215a1d1ab54a981c8e4e949337f_sz-2037.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/0cbf6215a1d1ab54a981c8e4e949337f_sz-2037.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #40"
+    },
+    {
+      "id": "xm_形状_41",
+      "name": "几何雪花/星点 #41",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/0025e9cce0e54440333df1f0d77a66d6_sz-1117.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/0025e9cce0e54440333df1f0d77a66d6_sz-1117.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #41"
+    },
+    {
+      "id": "xm_形状_42",
+      "name": "几何雪花/星点 #42",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/09f5f67b0fb3b0849b07b6f124528a19_sz-2985.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/09f5f67b0fb3b0849b07b6f124528a19_sz-2985.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #42"
+    },
+    {
+      "id": "xm_形状_43",
+      "name": "几何雪花/星点 #43",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/ee6248622ffca0a21dba475fb19813ee_sz-2982.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/ee6248622ffca0a21dba475fb19813ee_sz-2982.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #43"
+    },
+    {
+      "id": "xm_形状_44",
+      "name": "几何雪花/星点 #44",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/30169dc4467b8f24da079d3b00c2dfb4_sz-5734.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/30169dc4467b8f24da079d3b00c2dfb4_sz-5734.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #44"
+    },
+    {
+      "id": "xm_形状_45",
+      "name": "几何雪花/星点 #45",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/c0dd31cd5ae36662c4cbba8723c8b5a0_sz-4936.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/c0dd31cd5ae36662c4cbba8723c8b5a0_sz-4936.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #45"
+    },
+    {
+      "id": "xm_形状_46",
+      "name": "几何雪花/星点 #46",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/1215dc88e4c66e311bd08faa1791c7bd_sz-2801.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/1215dc88e4c66e311bd08faa1791c7bd_sz-2801.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #46"
+    },
+    {
+      "id": "xm_形状_47",
+      "name": "几何雪花/星点 #47",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/b9978a2c83fde5a7ce6bbd1f5f8e4a58_sz-1742.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/b9978a2c83fde5a7ce6bbd1f5f8e4a58_sz-1742.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #47"
+    },
+    {
+      "id": "xm_形状_48",
+      "name": "几何雪花/星点 #48",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/7ba12af12a8c2785d7635bc9598a642d_sz-2282.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/7ba12af12a8c2785d7635bc9598a642d_sz-2282.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #48"
+    },
+    {
+      "id": "xm_形状_49",
+      "name": "几何雪花/星点 #49",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/0b318b04d43970a0a819bd5208276aa2_sz-1809.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/0b318b04d43970a0a819bd5208276aa2_sz-1809.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #49"
+    },
+    {
+      "id": "xm_形状_50",
+      "name": "几何雪花/星点 #50",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/bc218df49fd2662c2afe59035b032c36_sz-701.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/bc218df49fd2662c2afe59035b032c36_sz-701.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #50"
+    },
+    {
+      "id": "xm_形状_51",
+      "name": "几何雪花/星点 #51",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/08b59d90046d7fc28ec3397cc5157e4c_sz-2363.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/08b59d90046d7fc28ec3397cc5157e4c_sz-2363.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #51"
+    },
+    {
+      "id": "xm_形状_52",
+      "name": "几何雪花/星点 #52",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/8007f03fd7a14f8d5098de591f44fb0d_sz-4820.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/8007f03fd7a14f8d5098de591f44fb0d_sz-4820.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #52"
+    },
+    {
+      "id": "xm_形状_53",
+      "name": "几何雪花/星点 #53",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/b7a29a92c005984b7407c55d91638675_sz-4023.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/b7a29a92c005984b7407c55d91638675_sz-4023.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #53"
+    },
+    {
+      "id": "xm_形状_54",
+      "name": "几何雪花/星点 #54",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/e035b6646636245cd754a29d6d6baac6_sz-5010.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/e035b6646636245cd754a29d6d6baac6_sz-5010.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #54"
+    },
+    {
+      "id": "xm_形状_55",
+      "name": "几何雪花/星点 #55",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/52a2c015bf5fbd5d6c73524bfcb75904_sz-4211.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/52a2c015bf5fbd5d6c73524bfcb75904_sz-4211.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #55"
+    },
+    {
+      "id": "xm_形状_56",
+      "name": "几何雪花/星点 #56",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/aa15209beb511e8fbae57a5819e2b5de_sz-2048.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/aa15209beb511e8fbae57a5819e2b5de_sz-2048.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #56"
+    },
+    {
+      "id": "xm_形状_57",
+      "name": "几何雪花/星点 #57",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/a6b35020101af2312079028935dba263_sz-1229.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/a6b35020101af2312079028935dba263_sz-1229.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #57"
+    },
+    {
+      "id": "xm_形状_58",
+      "name": "几何雪花/星点 #58",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/feef3626b878279b543c455bb7b18c46_sz-10295.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/feef3626b878279b543c455bb7b18c46_sz-10295.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #58"
+    },
+    {
+      "id": "xm_形状_59",
+      "name": "几何雪花/星点 #59",
+      "category": "贴纸与装饰",
+      "subcategory": "几何雪花/星点",
+      "styles": [
+        "文艺纸感",
+        "极简干货",
+        "荣誉喜报"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/236428d5baa02898c340cb09a9450fed_sz-14373.svg",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/236428d5baa02898c340cb09a9450fed_sz-14373.svg",
+      "tier": "free",
+      "mediaType": "svg",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "几何雪花/星点 #59"
+    },
+    {
+      "id": "xm_插画_60",
+      "name": "水彩绿叶植物 #60",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/194bd62c1c51266a43317d03ba1dd7e7_sz-722559.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/194bd62c1c51266a43317d03ba1dd7e7_sz-722559.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #60"
+    },
+    {
+      "id": "xm_插画_61",
+      "name": "水彩绿叶植物 #61",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/77fb89c604505ff9e687df641a6c53d1_sz-136853.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/77fb89c604505ff9e687df641a6c53d1_sz-136853.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #61"
+    },
+    {
+      "id": "xm_插画_62",
+      "name": "水彩绿叶植物 #62",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/03d779706dd9ae5e3e672017aa12bd81_sz-352781.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/03d779706dd9ae5e3e672017aa12bd81_sz-352781.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #62"
+    },
+    {
+      "id": "xm_插画_63",
+      "name": "水彩绿叶植物 #63",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/5f1498346e5119bed41615bd3981f73f_sz-258223.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/5f1498346e5119bed41615bd3981f73f_sz-258223.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #63"
+    },
+    {
+      "id": "xm_插画_64",
+      "name": "水彩绿叶植物 #64",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/35355ad9292e9b25f1167a427b6cff4e_sz-504439.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/35355ad9292e9b25f1167a427b6cff4e_sz-504439.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #64"
+    },
+    {
+      "id": "xm_插画_65",
+      "name": "水彩绿叶植物 #65",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/09bf6fa42ea6bffa6ea45636b4476066_sz-477468.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/09bf6fa42ea6bffa6ea45636b4476066_sz-477468.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #65"
+    },
+    {
+      "id": "xm_插画_66",
+      "name": "水彩绿叶植物 #66",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/f3eb6ddfd065855b669e922673f404fd_sz-292493.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/f3eb6ddfd065855b669e922673f404fd_sz-292493.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #66"
+    },
+    {
+      "id": "xm_插画_67",
+      "name": "水彩绿叶植物 #67",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/f7de85e723ee4db24e4fa371dd5386e9_sz-535535.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/f7de85e723ee4db24e4fa371dd5386e9_sz-535535.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #67"
+    },
+    {
+      "id": "xm_插画_68",
+      "name": "水彩绿叶植物 #68",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/1548d3e402a928d5c856238aca05f1be_sz-171491.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/1548d3e402a928d5c856238aca05f1be_sz-171491.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #68"
+    },
+    {
+      "id": "xm_插画_69",
+      "name": "水彩绿叶植物 #69",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/ca703bf91eed2e044f74066799a45d71_sz-281053.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/ca703bf91eed2e044f74066799a45d71_sz-281053.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #69"
+    },
+    {
+      "id": "xm_插画_70",
+      "name": "水彩绿叶植物 #70",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/fa172f983eebff2d46c8fd84a9ae0d8c_sz-703713.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/fa172f983eebff2d46c8fd84a9ae0d8c_sz-703713.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #70"
+    },
+    {
+      "id": "xm_插画_71",
+      "name": "水彩绿叶植物 #71",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/e905d51d4c4504a161eb2ab66cd35c7d_sz-824705.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/e905d51d4c4504a161eb2ab66cd35c7d_sz-824705.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #71"
+    },
+    {
+      "id": "xm_插画_72",
+      "name": "水彩绿叶植物 #72",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/40140d80060b8594c6ca8ca137b02002_sz-762342.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/40140d80060b8594c6ca8ca137b02002_sz-762342.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #72"
+    },
+    {
+      "id": "xm_插画_73",
+      "name": "水彩绿叶植物 #73",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/113dc50f490de5c79ec4d8617c0a3491_sz-492705.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/113dc50f490de5c79ec4d8617c0a3491_sz-492705.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #73"
+    },
+    {
+      "id": "xm_插画_74",
+      "name": "水彩绿叶植物 #74",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/cd61b59adccacff8fa43e7d64e1bcb9d_sz-167537.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/cd61b59adccacff8fa43e7d64e1bcb9d_sz-167537.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #74"
+    },
+    {
+      "id": "xm_插画_75",
+      "name": "水彩绿叶植物 #75",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/9c78043536416d06e693b5bc9c32aa92_sz-151655.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/9c78043536416d06e693b5bc9c32aa92_sz-151655.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #75"
+    },
+    {
+      "id": "xm_插画_76",
+      "name": "水彩绿叶植物 #76",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/382e2f2da3413845eec80981a6396e9a_sz-205660.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/382e2f2da3413845eec80981a6396e9a_sz-205660.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #76"
+    },
+    {
+      "id": "xm_插画_77",
+      "name": "水彩绿叶植物 #77",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/49527d408d1febb07bcff0016763b6da_sz-211168.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/49527d408d1febb07bcff0016763b6da_sz-211168.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #77"
+    },
+    {
+      "id": "xm_插画_78",
+      "name": "水彩绿叶植物 #78",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/a5ad6f2a3ec1c0ac063fbacd36ea27d6_sz-160678.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/a5ad6f2a3ec1c0ac063fbacd36ea27d6_sz-160678.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #78"
+    },
+    {
+      "id": "xm_插画_79",
+      "name": "水彩绿叶植物 #79",
+      "category": "贴纸与装饰",
+      "subcategory": "水彩绿叶植物",
+      "styles": [
+        "文艺纸感",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/9eb9b6f78390432712c85c42bd11c14f_sz-110419.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/9eb9b6f78390432712c85c42bd11c14f_sz-110419.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "水彩绿叶植物 #79"
+    },
+    {
+      "id": "xm_图标_80",
+      "name": "萌趣企鹅动态GIF #80",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/3a5ef0488a580ad41e1979c35d84c404_sz-52561.gif",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/3a5ef0488a580ad41e1979c35d84c404_sz-52561.gif",
+      "tier": "free",
+      "mediaType": "gif",
+      "role": "gif",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #80"
+    },
+    {
+      "id": "xm_图标_81",
+      "name": "萌趣企鹅动态GIF #81",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/3086aef43e4a6b139d6595ec15889831_sz-55848.gif",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/3086aef43e4a6b139d6595ec15889831_sz-55848.gif",
+      "tier": "free",
+      "mediaType": "gif",
+      "role": "gif",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #81"
+    },
+    {
+      "id": "xm_图标_82",
+      "name": "萌趣企鹅动态GIF #82",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/36889901557c92d2a5d59caafad96dc4_sz-101927.gif",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/36889901557c92d2a5d59caafad96dc4_sz-101927.gif",
+      "tier": "free",
+      "mediaType": "gif",
+      "role": "gif",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #82"
+    },
+    {
+      "id": "xm_图标_83",
+      "name": "萌趣企鹅动态GIF #83",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/24bcfbb1fbfc57e89900abce8008b187_sz-67715.gif",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/24bcfbb1fbfc57e89900abce8008b187_sz-67715.gif",
+      "tier": "free",
+      "mediaType": "gif",
+      "role": "gif",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #83"
+    },
+    {
+      "id": "xm_图标_84",
+      "name": "萌趣企鹅动态GIF #84",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/5f17b6ba38d3ac3e2780ae065d7d9704_sz-95223.gif",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/5f17b6ba38d3ac3e2780ae065d7d9704_sz-95223.gif",
+      "tier": "free",
+      "mediaType": "gif",
+      "role": "gif",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #84"
+    },
+    {
+      "id": "xm_图标_85",
+      "name": "萌趣企鹅动态GIF #85",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/2ab9a6141c9dc270d40282c5d204a453_sz-48160.gif",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/2ab9a6141c9dc270d40282c5d204a453_sz-48160.gif",
+      "tier": "free",
+      "mediaType": "gif",
+      "role": "gif",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #85"
+    },
+    {
+      "id": "xm_图标_86",
+      "name": "萌趣企鹅动态GIF #86",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/84c4e17edc1b8f39140622951ef2f342_sz-49910.gif",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/84c4e17edc1b8f39140622951ef2f342_sz-49910.gif",
+      "tier": "free",
+      "mediaType": "gif",
+      "role": "gif",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #86"
+    },
+    {
+      "id": "xm_图标_87",
+      "name": "萌趣企鹅动态GIF #87",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/d2ea6513922dead0433644336ceb7006_sz-58018.gif",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/d2ea6513922dead0433644336ceb7006_sz-58018.gif",
+      "tier": "free",
+      "mediaType": "gif",
+      "role": "gif",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #87"
+    },
+    {
+      "id": "xm_图标_88",
+      "name": "萌趣企鹅动态GIF #88",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/bc55ce6c7cf042198fea0d2e8e334acc_sz-66690.gif",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/bc55ce6c7cf042198fea0d2e8e334acc_sz-66690.gif",
+      "tier": "free",
+      "mediaType": "gif",
+      "role": "gif",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #88"
+    },
+    {
+      "id": "xm_图标_89",
+      "name": "萌趣企鹅动态GIF #89",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/0e1ad1819c593abf591527b3c901aeff_sz-62686.gif",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/0e1ad1819c593abf591527b3c901aeff_sz-62686.gif",
+      "tier": "free",
+      "mediaType": "gif",
+      "role": "gif",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #89"
+    },
+    {
+      "id": "xm_图标_90",
+      "name": "萌趣企鹅动态GIF #90",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/cee5d0464465ffd8421d038c04426100_sz-55406.gif",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/cee5d0464465ffd8421d038c04426100_sz-55406.gif",
+      "tier": "free",
+      "mediaType": "gif",
+      "role": "gif",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #90"
+    },
+    {
+      "id": "xm_图标_91",
+      "name": "萌趣企鹅动态GIF #91",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/055dbcb4baf7c0dc71f2a1a29b3c3bad_sz-37954.gif",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/055dbcb4baf7c0dc71f2a1a29b3c3bad_sz-37954.gif",
+      "tier": "free",
+      "mediaType": "gif",
+      "role": "gif",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #91"
+    },
+    {
+      "id": "xm_图标_92",
+      "name": "萌趣企鹅动态GIF #92",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/a728eec27ffa2d98127473355756aff2_sz-49455.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/a728eec27ffa2d98127473355756aff2_sz-49455.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #92"
+    },
+    {
+      "id": "xm_图标_93",
+      "name": "萌趣企鹅动态GIF #93",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/05ea53e42a121d4f5f0c2f702a8d0778_sz-53400.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/05ea53e42a121d4f5f0c2f702a8d0778_sz-53400.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #93"
+    },
+    {
+      "id": "xm_图标_94",
+      "name": "萌趣企鹅动态GIF #94",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/6f3a6925eaae73504a5d785f1760f030_sz-51743.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/6f3a6925eaae73504a5d785f1760f030_sz-51743.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #94"
+    },
+    {
+      "id": "xm_图标_95",
+      "name": "萌趣企鹅动态GIF #95",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/1e1315567bdbc197c41631ed9331c125_sz-45454.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/1e1315567bdbc197c41631ed9331c125_sz-45454.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #95"
+    },
+    {
+      "id": "xm_图标_96",
+      "name": "萌趣企鹅动态GIF #96",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/4695fc98dde10b2be6574471913a2fe8_sz-43610.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/4695fc98dde10b2be6574471913a2fe8_sz-43610.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #96"
+    },
+    {
+      "id": "xm_图标_97",
+      "name": "萌趣企鹅动态GIF #97",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/6c04673000dd56126c70d2db843bb50d_sz-45998.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/6c04673000dd56126c70d2db843bb50d_sz-45998.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #97"
+    },
+    {
+      "id": "xm_图标_98",
+      "name": "萌趣企鹅动态GIF #98",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/6fb4c160fd7c809f80d1ca92560f8fbf_sz-29590.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/6fb4c160fd7c809f80d1ca92560f8fbf_sz-29590.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #98"
+    },
+    {
+      "id": "xm_图标_99",
+      "name": "萌趣企鹅动态GIF #99",
+      "category": "动图与微动效",
+      "subcategory": "萌趣企鹅动态GIF",
+      "styles": [
+        "舞台热浪",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/5fdf103b5f35a20a5f5b1a774334a40e_sz-44244.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/5fdf103b5f35a20a5f5b1a774334a40e_sz-44244.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "sticker",
+      "source": "xiumi_screened",
+      "label": "萌趣企鹅动态GIF #99"
+    },
+    {
+      "id": "xm_边框_102",
+      "name": "票据/邮戳/标签框 #102",
+      "category": "边框相框",
+      "subcategory": "票据/邮戳/标签框",
+      "styles": [
+        "文艺纸感",
+        "复古胶片",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/ab38e39e8875e7d42283560af494b340_sz-21481.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/ab38e39e8875e7d42283560af494b340_sz-21481.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "票据/邮戳/标签框 #102"
+    },
+    {
+      "id": "xm_边框_107",
+      "name": "票据/邮戳/标签框 #107",
+      "category": "边框相框",
+      "subcategory": "票据/邮戳/标签框",
+      "styles": [
+        "文艺纸感",
+        "复古胶片",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/abc84b77766ff477ba918711062d4f55_sz-15140.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/abc84b77766ff477ba918711062d4f55_sz-15140.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "票据/邮戳/标签框 #107"
+    },
+    {
+      "id": "xm_边框_108",
+      "name": "票据/邮戳/标签框 #108",
+      "category": "边框相框",
+      "subcategory": "票据/邮戳/标签框",
+      "styles": [
+        "文艺纸感",
+        "复古胶片",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/77fc748aeb7bc3ef6acd5e26e92bc520_sz-8358.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/77fc748aeb7bc3ef6acd5e26e92bc520_sz-8358.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "票据/邮戳/标签框 #108"
+    },
+    {
+      "id": "xm_边框_109",
+      "name": "票据/邮戳/标签框 #109",
+      "category": "边框相框",
+      "subcategory": "票据/邮戳/标签框",
+      "styles": [
+        "文艺纸感",
+        "复古胶片",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/1714e31853e08260d4cfcd01332f8ff8_sz-6193.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/1714e31853e08260d4cfcd01332f8ff8_sz-6193.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "票据/邮戳/标签框 #109"
+    },
+    {
+      "id": "xm_边框_110",
+      "name": "票据/邮戳/标签框 #110",
+      "category": "边框相框",
+      "subcategory": "票据/邮戳/标签框",
+      "styles": [
+        "文艺纸感",
+        "复古胶片",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/546ff3d414e645ef106d2d7a0391c3cf_sz-4774.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/546ff3d414e645ef106d2d7a0391c3cf_sz-4774.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "票据/邮戳/标签框 #110"
+    },
+    {
+      "id": "xm_边框_111",
+      "name": "票据/邮戳/标签框 #111",
+      "category": "边框相框",
+      "subcategory": "票据/邮戳/标签框",
+      "styles": [
+        "文艺纸感",
+        "复古胶片",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/d225cd4fd19309717efd0b66c4910ae3_sz-4794.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/d225cd4fd19309717efd0b66c4910ae3_sz-4794.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "票据/邮戳/标签框 #111"
+    },
+    {
+      "id": "xm_边框_112",
+      "name": "票据/邮戳/标签框 #112",
+      "category": "边框相框",
+      "subcategory": "票据/邮戳/标签框",
+      "styles": [
+        "文艺纸感",
+        "复古胶片",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/708ccffec73bf95810173018192cbfcb_sz-1923.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/708ccffec73bf95810173018192cbfcb_sz-1923.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "票据/邮戳/标签框 #112"
+    },
+    {
+      "id": "xm_边框_113",
+      "name": "票据/邮戳/标签框 #113",
+      "category": "边框相框",
+      "subcategory": "票据/邮戳/标签框",
+      "styles": [
+        "文艺纸感",
+        "复古胶片",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/6ea01cc513ce402a179503d30a71f8b8_sz-2313.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/6ea01cc513ce402a179503d30a71f8b8_sz-2313.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "票据/邮戳/标签框 #113"
+    },
+    {
+      "id": "xm_边框_114",
+      "name": "票据/邮戳/标签框 #114",
+      "category": "边框相框",
+      "subcategory": "票据/邮戳/标签框",
+      "styles": [
+        "文艺纸感",
+        "复古胶片",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/358c6abfc59faa5cdbf8221cb5ab7a00_sz-10408.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/358c6abfc59faa5cdbf8221cb5ab7a00_sz-10408.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "票据/邮戳/标签框 #114"
+    },
+    {
+      "id": "xm_边框_115",
+      "name": "票据/邮戳/标签框 #115",
+      "category": "边框相框",
+      "subcategory": "票据/邮戳/标签框",
+      "styles": [
+        "文艺纸感",
+        "复古胶片",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/16e67eb335d3abdd1b439876c237148f_sz-6901.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/16e67eb335d3abdd1b439876c237148f_sz-6901.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "票据/邮戳/标签框 #115"
+    },
+    {
+      "id": "xm_边框_116",
+      "name": "票据/邮戳/标签框 #116",
+      "category": "边框相框",
+      "subcategory": "票据/邮戳/标签框",
+      "styles": [
+        "文艺纸感",
+        "复古胶片",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/b130986f75d3c263130cabca0b9b0f6d_sz-41629.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/b130986f75d3c263130cabca0b9b0f6d_sz-41629.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "票据/邮戳/标签框 #116"
+    },
+    {
+      "id": "xm_边框_117",
+      "name": "票据/邮戳/标签框 #117",
+      "category": "边框相框",
+      "subcategory": "票据/邮戳/标签框",
+      "styles": [
+        "文艺纸感",
+        "复古胶片",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/a83685497c352178c68123dae47ac565_sz-10173.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/a83685497c352178c68123dae47ac565_sz-10173.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "票据/邮戳/标签框 #117"
+    },
+    {
+      "id": "xm_边框_118",
+      "name": "票据/邮戳/标签框 #118",
+      "category": "边框相框",
+      "subcategory": "票据/邮戳/标签框",
+      "styles": [
+        "文艺纸感",
+        "复古胶片",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/a1fb9c63d22ae26229fdebf85dda782a_sz-18328.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/a1fb9c63d22ae26229fdebf85dda782a_sz-18328.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "票据/邮戳/标签框 #118"
+    },
+    {
+      "id": "xm_边框_119",
+      "name": "票据/邮戳/标签框 #119",
+      "category": "边框相框",
+      "subcategory": "票据/邮戳/标签框",
+      "styles": [
+        "文艺纸感",
+        "复古胶片",
+        "清新日常"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/4d5181d65cc0f4c949944c7043e088ed_sz-64386.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/4d5181d65cc0f4c949944c7043e088ed_sz-64386.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "frame",
+      "source": "xiumi_screened",
+      "label": "票据/邮戳/标签框 #119"
+    },
+    {
+      "id": "xm_背景_122",
+      "name": "手账格纹纸底 #122",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/d6baa9fdd7c3c3bf77902c8668f13f7f_sz-145474.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/d6baa9fdd7c3c3bf77902c8668f13f7f_sz-145474.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #122"
+    },
+    {
+      "id": "xm_背景_123",
+      "name": "手账格纹纸底 #123",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/fcd9c9bbf9060fcf21356ce0657be889_sz-84879.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/fcd9c9bbf9060fcf21356ce0657be889_sz-84879.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #123"
+    },
+    {
+      "id": "xm_背景_124",
+      "name": "手账格纹纸底 #124",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/801174ffbcf98a7c04ea95cc077a4e60_sz-93789.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/801174ffbcf98a7c04ea95cc077a4e60_sz-93789.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #124"
+    },
+    {
+      "id": "xm_背景_125",
+      "name": "手账格纹纸底 #125",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/74a9663beed99b264af82347c9d800cf_sz-76280.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/74a9663beed99b264af82347c9d800cf_sz-76280.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #125"
+    },
+    {
+      "id": "xm_背景_126",
+      "name": "手账格纹纸底 #126",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/cee4db91cfef41682e553e6e8515b95c_sz-185118.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/cee4db91cfef41682e553e6e8515b95c_sz-185118.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #126"
+    },
+    {
+      "id": "xm_背景_127",
+      "name": "手账格纹纸底 #127",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/42da24fa738c928f149aa4a80932c4eb_sz-141006.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/42da24fa738c928f149aa4a80932c4eb_sz-141006.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #127"
+    },
+    {
+      "id": "xm_背景_128",
+      "name": "手账格纹纸底 #128",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/11e4557cbb89c76e4237192766fc6434_sz-107797.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/11e4557cbb89c76e4237192766fc6434_sz-107797.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #128"
+    },
+    {
+      "id": "xm_背景_129",
+      "name": "手账格纹纸底 #129",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/8c4fdfc951c403309d0be760c6870d9b_sz-91048.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/8c4fdfc951c403309d0be760c6870d9b_sz-91048.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #129"
+    },
+    {
+      "id": "xm_背景_130",
+      "name": "手账格纹纸底 #130",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/a3fcdf2406bf18fab60d7133675f9a31_sz-70348.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/a3fcdf2406bf18fab60d7133675f9a31_sz-70348.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #130"
+    },
+    {
+      "id": "xm_背景_131",
+      "name": "手账格纹纸底 #131",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/a388639cb5ce64f2b6977e65f60ad58b_sz-58466.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/a388639cb5ce64f2b6977e65f60ad58b_sz-58466.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #131"
+    },
+    {
+      "id": "xm_背景_132",
+      "name": "手账格纹纸底 #132",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/de7fa85dca01d3ee1189216b34dd09a1_sz-69362.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/de7fa85dca01d3ee1189216b34dd09a1_sz-69362.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #132"
+    },
+    {
+      "id": "xm_背景_133",
+      "name": "手账格纹纸底 #133",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/388cd7600cbf4ad5ee24a6b73543689b_sz-17958.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/388cd7600cbf4ad5ee24a6b73543689b_sz-17958.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #133"
+    },
+    {
+      "id": "xm_背景_134",
+      "name": "手账格纹纸底 #134",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/ae86b89270fed343a816f5159a10a431_sz-7642.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/ae86b89270fed343a816f5159a10a431_sz-7642.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #134"
+    },
+    {
+      "id": "xm_背景_135",
+      "name": "手账格纹纸底 #135",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/132ffb1a5342210788f4657071daf8d9_sz-46369.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/132ffb1a5342210788f4657071daf8d9_sz-46369.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #135"
+    },
+    {
+      "id": "xm_背景_136",
+      "name": "手账格纹纸底 #136",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/f44b8174ea1073302b81add6aad2d323_sz-38502.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/f44b8174ea1073302b81add6aad2d323_sz-38502.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #136"
+    },
+    {
+      "id": "xm_背景_137",
+      "name": "手账格纹纸底 #137",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/7cdc713743f8afd3725540f6b8433b98_sz-2339.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/7cdc713743f8afd3725540f6b8433b98_sz-2339.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #137"
+    },
+    {
+      "id": "xm_背景_139",
+      "name": "手账格纹纸底 #139",
+      "category": "纸纹与底纹",
+      "subcategory": "手账格纹纸底",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/70e2a8883761af8363229a1229a970f7_sz-2252.png?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/70e2a8883761af8363229a1229a970f7_sz-2252.png",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "background",
+      "source": "xiumi_screened",
+      "label": "手账格纹纸底 #139"
+    },
+    {
+      "id": "xm_摄影图_0",
+      "name": "自然风光实拍 #0",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/f6ccb02a8ebb41e38ba667da73456c1d_sz-174613.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/f6ccb02a8ebb41e38ba667da73456c1d_sz-174613.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #0"
+    },
+    {
+      "id": "xm_摄影图_1",
+      "name": "自然风光实拍 #1",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/c5a4174423e8804741949f051084e7ad_sz-215500.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/c5a4174423e8804741949f051084e7ad_sz-215500.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #1"
+    },
+    {
+      "id": "xm_摄影图_2",
+      "name": "自然风光实拍 #2",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/c56b9089c5ec60b998a5ccedfcab3736_sz-214729.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/c56b9089c5ec60b998a5ccedfcab3736_sz-214729.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #2"
+    },
+    {
+      "id": "xm_摄影图_3",
+      "name": "自然风光实拍 #3",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/f47dc8ba8f8e58812338fcdbe5ebd77b_sz-219776.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/f47dc8ba8f8e58812338fcdbe5ebd77b_sz-219776.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #3"
+    },
+    {
+      "id": "xm_摄影图_4",
+      "name": "自然风光实拍 #4",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/f3e0353c5281d4bf29293807ed8e72fd_sz-195436.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/f3e0353c5281d4bf29293807ed8e72fd_sz-195436.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #4"
+    },
+    {
+      "id": "xm_摄影图_5",
+      "name": "自然风光实拍 #5",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/00661e49fd2e3b263c470c39e28a0296_sz-219332.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/00661e49fd2e3b263c470c39e28a0296_sz-219332.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #5"
+    },
+    {
+      "id": "xm_摄影图_6",
+      "name": "自然风光实拍 #6",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/46bd7e9c0e7be55f97bd34ecfb37e0e0_sz-167874.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/46bd7e9c0e7be55f97bd34ecfb37e0e0_sz-167874.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #6"
+    },
+    {
+      "id": "xm_摄影图_7",
+      "name": "自然风光实拍 #7",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/b55637fc761ab1a300f7eeb62feadc16_sz-155359.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/b55637fc761ab1a300f7eeb62feadc16_sz-155359.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #7"
+    },
+    {
+      "id": "xm_摄影图_8",
+      "name": "自然风光实拍 #8",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/25b2c5a3f5e67061b3e378af6638fcb8_sz-161110.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/25b2c5a3f5e67061b3e378af6638fcb8_sz-161110.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #8"
+    },
+    {
+      "id": "xm_摄影图_9",
+      "name": "自然风光实拍 #9",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/36c98ad45e8911af35bae697716251b6_sz-251508.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/36c98ad45e8911af35bae697716251b6_sz-251508.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #9"
+    },
+    {
+      "id": "xm_摄影图_10",
+      "name": "自然风光实拍 #10",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/45a2c944377fcec6a13bb2484b5c7f01_sz-237898.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/45a2c944377fcec6a13bb2484b5c7f01_sz-237898.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #10"
+    },
+    {
+      "id": "xm_摄影图_11",
+      "name": "自然风光实拍 #11",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/10a0961e271c90d5a68e449145b78288_sz-181067.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/10a0961e271c90d5a68e449145b78288_sz-181067.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #11"
+    },
+    {
+      "id": "xm_摄影图_12",
+      "name": "自然风光实拍 #12",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/db22ed923f59d994e12a0d1f231040e2_sz-217311.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/db22ed923f59d994e12a0d1f231040e2_sz-217311.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #12"
+    },
+    {
+      "id": "xm_摄影图_13",
+      "name": "自然风光实拍 #13",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/8c82f8f65f66029341a3784c81a18d37_sz-223105.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/8c82f8f65f66029341a3784c81a18d37_sz-223105.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #13"
+    },
+    {
+      "id": "xm_摄影图_14",
+      "name": "自然风光实拍 #14",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/604b92859f5ea3fecd93064e26867e12_sz-145744.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/604b92859f5ea3fecd93064e26867e12_sz-145744.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #14"
+    },
+    {
+      "id": "xm_摄影图_15",
+      "name": "自然风光实拍 #15",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/af65f894ed68ec4ecf1b1ad8763a8af0_sz-223394.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/af65f894ed68ec4ecf1b1ad8763a8af0_sz-223394.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #15"
+    },
+    {
+      "id": "xm_摄影图_16",
+      "name": "自然风光实拍 #16",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/f6e391d88dfcf437dca4c01c7fd30f51_sz-158893.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/f6e391d88dfcf437dca4c01c7fd30f51_sz-158893.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #16"
+    },
+    {
+      "id": "xm_摄影图_17",
+      "name": "自然风光实拍 #17",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/2a2c4f27a339d7e574eee5529d423e1f_sz-231034.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/2a2c4f27a339d7e574eee5529d423e1f_sz-231034.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #17"
+    },
+    {
+      "id": "xm_摄影图_18",
+      "name": "自然风光实拍 #18",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/125ef0e57d440fc93c1885c5bbaa3be7_sz-187810.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/125ef0e57d440fc93c1885c5bbaa3be7_sz-187810.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #18"
+    },
+    {
+      "id": "xm_摄影图_19",
+      "name": "自然风光实拍 #19",
+      "category": "实拍氛围图",
+      "subcategory": "自然风光实拍",
+      "styles": [
+        "清新日常",
+        "文艺纸感",
+        "复古胶片"
+      ],
+      "url": "https://statics.xiumi.us/mat/i/fvId/c1b4aaa7d48e7b9efbec7428c33acdb4_sz-337692.jpg?x-oss-process=style/xmwebp",
+      "baseUrl": "https://statics.xiumi.us/mat/i/fvId/c1b4aaa7d48e7b9efbec7428c33acdb4_sz-337692.jpg",
+      "tier": "free",
+      "mediaType": "image",
+      "role": "photo",
+      "source": "xiumi_screened",
+      "label": "自然风光实拍 #19"
+    }
+  ]
+}

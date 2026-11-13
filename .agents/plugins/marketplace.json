@@ -1,0 +1,1 @@
+{"name":"wechat-xiumi-local","interface":{"displayName":"秀米工作台插件"},"plugins":[{"name":"wechat-xiumi-studio","source":{"source":"local","path":"./plugins/wechat-xiumi-studio"},"policy":{"installation":"AVAILABLE","authentication":"ON_INSTALL"},"category":"Productivity","interface":{"displayName":"秀米排版工作台"}}]}

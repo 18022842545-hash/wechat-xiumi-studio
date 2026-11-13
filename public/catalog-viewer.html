@@ -1,0 +1,324 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="referrer" content="no-referrer" />
+  <title>全景素材画廊 · 200+ 人工筛查精品素材库</title>
+  <style>
+    :root {
+      --bg: #f4f1ea;
+      --card: #ffffff;
+      --ink: #2b2723;
+      --muted: #766e64;
+      --border: #e3ddd2;
+      --primary: #5b7a6b;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif;
+      font-size: 13px;
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: #ffffff;
+      border-bottom: 1px solid var(--border);
+      padding: 12px 20px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    .title-wrap {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .title-wrap h1 {
+      margin: 0;
+      font-size: 17px;
+    }
+    .pill {
+      display: inline-block;
+      padding: 3px 9px;
+      border-radius: 999px;
+      font-size: 11px;
+      background: #eef5f1;
+      color: #2c7a52;
+      border: 1px solid #c3e2d1;
+    }
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+    select, input, button, a.btn-link {
+      font: inherit;
+      padding: 6px 10px;
+      border: 1px solid var(--border);
+      border-radius: 7px;
+      background: #ffffff;
+      color: var(--ink);
+      text-decoration: none;
+    }
+    button { cursor: pointer; }
+    a.btn-link {
+      background: var(--primary);
+      color: #ffffff;
+      border-color: var(--primary);
+      font-weight: 600;
+    }
+    main {
+      max-width: 1380px;
+      margin: 0 auto;
+      padding: 18px 20px 40px;
+    }
+    .stats-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 14px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(195px, 1fr));
+      gap: 12px;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 9px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .thumb {
+      height: 130px;
+      border-radius: 7px;
+      background-color: #f8f6f2;
+      background-image: linear-gradient(45deg, #efeae1 25%, transparent 25%), linear-gradient(-45deg, #efeae1 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #efeae1 75%), linear-gradient(-45deg, transparent 75%, #efeae1 75%);
+      background-size: 14px 14px;
+      background-position: 0 0, 0 7px, 7px -7px, -7px 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      position: relative;
+      padding: 6px;
+    }
+    .thumb.dark {
+      background-color: #1f1b24;
+      background-image: none;
+    }
+    .thumb img {
+      max-width: 100%;
+      max-height: 118px;
+      object-fit: contain;
+    }
+    .badge {
+      position: absolute;
+      top: 6px;
+      left: 6px;
+      font-size: 10px;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: 600;
+    }
+    .badge.open_free { background: #e3f5ec; color: #1b6b42; }
+    .badge.free { background: #e5f0ff; color: #2457a6; }
+    .badge.vip { background: #fff3d6; color: #9c6200; }
+    .badge.custom { background: #f2e8ff; color: #673ab7; }
+    .name {
+      font-size: 12px;
+      font-weight: 600;
+      line-height: 1.4;
+      min-height: 33px;
+    }
+    .meta {
+      font-size: 11px;
+      color: var(--muted);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="title-wrap">
+      <h1>全景素材画廊 · 人工精选素材库</h1>
+      <span class="pill" id="count-badge">加载中...</span>
+    </div>
+    <div class="controls">
+      <select id="f-role">
+        <option value="all">全部类别</option>
+        <option value="sticker">贴纸/胶带/形状</option>
+        <option value="badge">标题艺术底托/徽章</option>
+        <option value="frame">边框/相框</option>
+        <option value="gif">动态 GIF</option>
+        <option value="background">纸纹/底纹背景</option>
+        <option value="photo">摄影实拍图</option>
+      </select>
+      <select id="f-tier">
+        <option value="all">全部权限</option>
+        <option value="open_free">开源永久免费 (MIT)</option>
+        <option value="free">秀米免费</option>
+        <option value="vip">秀米VIP参考</option>
+      </select>
+      <select id="f-style">
+        <option value="">全部 6 种风格</option>
+      </select>
+      <input id="f-q" type="search" placeholder="搜索素材名称/标签..." />
+      <button id="toggle-bg" type="button">深浅预览底色</button>
+      <a class="btn-link" href="/">返回排版工作台</a>
+    </div>
+  </header>
+
+  <main>
+    <div class="stats-bar" id="stats-bar"></div>
+    <div class="grid" id="grid"></div>
+  </main>
+
+  <script type="module">
+    const $ = id => document.getElementById(id);
+    let assets = [];
+    let darkBg = false;
+
+    const tierName = t => ({
+      open_free: '开源永久免费',
+      free: '秀米免费',
+      vip: '秀米VIP',
+      custom: '本地上传'
+    }[t] || '免费');
+
+    const aliases = {
+      'campus-paper': ['campus-paper', '文艺纸感'],
+      'stage-heat': ['stage-heat', '舞台热浪'],
+      'fresh-teambuild': ['fresh-teambuild', '清新团建', '清新日常'],
+      'retro-film': ['retro-film', '复古胶片'],
+      'minimal-mag': ['minimal-mag', '极简杂志', '极简干货'],
+      'warm-honor': ['warm-honor', '荣誉喜报']
+    };
+
+    function render() {
+      const role = $('f-role').value;
+      const tier = $('f-tier').value;
+      const style = $('f-style').value;
+      const q = $('f-q').value.trim().toLowerCase();
+
+      const filtered = assets.filter(a => {
+        if (role !== 'all') {
+          if (role === 'gif') {
+            if (a.mediaType !== 'gif' && a.role !== 'gif') return false;
+          } else if (a.role !== role) {
+            return false;
+          }
+        }
+        if (tier !== 'all' && a.tier !== tier) return false;
+        if (style) {
+          const allowed = aliases[style] || [style];
+          if (!(a.styles || []).some(s => allowed.includes(s))) return false;
+        }
+        if (q) {
+          const hay = `${a.name || ''} ${a.category || ''} ${a.subcategory || ''} ${(a.tags || []).join(' ')}`.toLowerCase();
+          if (!hay.includes(q)) return false;
+        }
+        return true;
+      });
+
+      $('count-badge').textContent = `当前显示 ${filtered.length} / 总计 ${assets.length} 个精选素材`;
+
+      const grid = $('grid');
+      grid.replaceChildren();
+      for (const a of filtered) {
+        const card = document.createElement('div');
+        card.className = 'card';
+
+        const thumb = document.createElement('div');
+        thumb.className = `thumb ${darkBg ? 'dark' : ''}`;
+        const img = document.createElement('img');
+        img.src = a.url;
+        img.loading = 'lazy';
+        img.alt = a.name || '';
+        const badge = document.createElement('span');
+        badge.className = `badge ${a.tier || 'free'}`;
+        badge.textContent = tierName(a.tier);
+        thumb.append(img, badge);
+
+        const name = document.createElement('div');
+        name.className = 'name';
+        name.textContent = a.name || a.id;
+
+        const meta = document.createElement('div');
+        meta.className = 'meta';
+        const sub = document.createElement('span');
+        sub.textContent = `${a.category || a.role}${a.mediaType === 'gif' ? ' · GIF' : ''}`;
+        const copyBtn = document.createElement('button');
+        copyBtn.type = 'button';
+        copyBtn.style.cssText = 'padding:3px 7px;font-size:11px;';
+        copyBtn.textContent = '复制地址';
+        copyBtn.onclick = async () => {
+          const full = a.url.startsWith('/') ? `${window.location.origin}${a.url}` : a.url;
+          await navigator.clipboard.writeText(full);
+          copyBtn.textContent = '已复制';
+          setTimeout(() => (copyBtn.textContent = '复制地址'), 1200);
+        };
+        meta.append(sub, copyBtn);
+
+        card.append(thumb, name, meta);
+        grid.appendChild(card);
+      }
+    }
+
+    async function init() {
+      const data = await fetch('/api/catalog').then(r => r.json());
+      assets = data.assets || [];
+      for (const sp of (data.stylePacks || [])) {
+        const o = document.createElement('option');
+        o.value = sp.id;
+        o.textContent = sp.name;
+        $('f-style').appendChild(o);
+      }
+
+      const openCount = assets.filter(a => a.tier === 'open_free').length;
+      const freeCount = assets.filter(a => a.tier === 'free').length;
+      const vipCount = assets.filter(a => a.tier === 'vip').length;
+      const gifCount = assets.filter(a => a.mediaType === 'gif' || a.role === 'gif').length;
+
+      const sb = $('stats-bar');
+      for (const text of [
+        `总素材 ${assets.length}`,
+        `开源永久免费 SVG/GIF ${openCount}`,
+        `秀米免费 ${freeCount}`,
+        `秀米VIP参考 ${vipCount}`,
+        `动态 GIF ${gifCount}`
+      ]) {
+        const span = document.createElement('span');
+        span.className = 'pill';
+        span.textContent = text;
+        sb.appendChild(span);
+      }
+
+      $('f-role').onchange = render;
+      $('f-tier').onchange = render;
+      $('f-style').onchange = render;
+      $('f-q').oninput = render;
+      $('toggle-bg').onclick = () => {
+        darkBg = !darkBg;
+        render();
+      };
+      render();
+    }
+
+    init();
+  </script>
+</body>
+</html>

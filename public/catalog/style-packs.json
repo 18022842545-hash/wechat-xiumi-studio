@@ -1,0 +1,106 @@
+{
+  "stylePacks": [
+    {
+      "id": "campus-paper",
+      "name": "校园纸感文艺风",
+      "mood": "安静、书卷气、青春怀旧",
+      "palette": {
+        "bg": "#F5F0E6",
+        "cardBg": "#FFFDF7",
+        "surface": "#EDE6D6",
+        "ink": "#3A3530",
+        "mutedInk": "#8A8070",
+        "primary": "#5B7A6B",
+        "accent": "#C48A5A",
+        "border": "#DCD3C0"
+      },
+      "headingRule": "宋体细字+左侧竖线",
+      "dividerStyle": "虚线+小叶片"
+    },
+    {
+      "id": "stage-heat",
+      "name": "舞台热浪活力风",
+      "mood": "炸裂、热烈、高能",
+      "palette": {
+        "bg": "#14101F",
+        "cardBg": "#211A33",
+        "surface": "#2D2445",
+        "ink": "#FFFFFF",
+        "mutedInk": "#B8AEDB",
+        "primary": "#FF3D7F",
+        "accent": "#FFD23F",
+        "border": "#4A3D6B"
+      },
+      "headingRule": "粗黑体+渐变底色块",
+      "dividerStyle": "霓虹光条"
+    },
+    {
+      "id": "fresh-teambuild",
+      "name": "清新团建手账风",
+      "mood": "轻松、可爱、元气",
+      "palette": {
+        "bg": "#F2FAF6",
+        "cardBg": "#FFFFFF",
+        "surface": "#DFF3EA",
+        "ink": "#2E4A40",
+        "mutedInk": "#7A9A8E",
+        "primary": "#3FBF8F",
+        "accent": "#FFB547",
+        "border": "#C6E8D9"
+      },
+      "headingRule": "圆体+胶带贴纸标签",
+      "dividerStyle": "手绘波浪线"
+    },
+    {
+      "id": "retro-film",
+      "name": "复古胶片纪实风",
+      "mood": "怀旧、真实、有温度",
+      "palette": {
+        "bg": "#2B2622",
+        "cardBg": "#3A332D",
+        "surface": "#4A4139",
+        "ink": "#EFE4D2",
+        "mutedInk": "#A8998A",
+        "primary": "#D9A05B",
+        "accent": "#B5523B",
+        "border": "#5E5248"
+      },
+      "headingRule": "打字机字体+日期戳",
+      "dividerStyle": "胶片齿孔条"
+    },
+    {
+      "id": "minimal-mag",
+      "name": "极简杂志干货风",
+      "mood": "克制、专业、信息密集",
+      "palette": {
+        "bg": "#FFFFFF",
+        "cardBg": "#FAFAFA",
+        "surface": "#F0F0F0",
+        "ink": "#111111",
+        "mutedInk": "#777777",
+        "primary": "#111111",
+        "accent": "#E63B2E",
+        "border": "#E2E2E2"
+      },
+      "headingRule": "大号编号+细黑体",
+      "dividerStyle": "1px实线"
+    },
+    {
+      "id": "warm-honor",
+      "name": "温暖荣誉喜报风",
+      "mood": "喜庆、庄重、自豪",
+      "palette": {
+        "bg": "#FFF6EC",
+        "cardBg": "#FFFFFF",
+        "surface": "#FCE8D2",
+        "ink": "#4A1F14",
+        "mutedInk": "#9A6B58",
+        "primary": "#C8282E",
+        "accent": "#E8B04A",
+        "border": "#F0CFA8"
+      },
+      "headingRule": "居中标题+金色缎带",
+      "dividerStyle": "金线+星形点缀"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "wechat-xiumi-studio",
+  "version": "1.0.0",
+  "description": "零依赖本地类秀米三栏微信公众号排版工作台，内置 200+ 精选素材库、36 款内联版式组件、微信原生互动 SVG 与 Codex / DeepSeek 双引擎定量排版插件",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/18022842545-hash/wechat-xiumi-studio.git"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "start": "node scripts/start.mjs",
+    "serve": "node server/app.mjs",
+    "build:assets": "node scripts/build-open-assets.mjs",
+    "install:codex": "node scripts/install.mjs",
+    "check:codex": "node scripts/install.mjs --check",
+    "test": "node tests/smoke.mjs && node tests/verify-all.mjs"
+  }
+}

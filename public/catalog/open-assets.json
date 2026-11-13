@@ -1,0 +1,1390 @@
+{
+  "version": 1,
+  "count": 54,
+  "assets": [
+    {
+      "id": "open_tape_01",
+      "name": "樱花腮红和纸胶带",
+      "label": "樱花腮红和纸胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-sakura-blush.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tape_02",
+      "name": "鼠尾草绿手账胶带",
+      "label": "鼠尾草绿手账胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild",
+        "minimal-mag"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-sage-leaf.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tape_03",
+      "name": "奶油格纹胶带",
+      "label": "奶油格纹胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "campus-paper",
+        "warm-honor",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-butter-grid.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tape_04",
+      "name": "牛皮纸拼贴胶带",
+      "label": "牛皮纸拼贴胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "campus-paper",
+        "retro-film"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-warm-kraft.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tape_05",
+      "name": "晴空斜纹胶带",
+      "label": "晴空斜纹胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "fresh-teambuild",
+        "minimal-mag"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-sky-stripe.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tape_06",
+      "name": "陶土波点和纸胶带",
+      "label": "陶土波点和纸胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "retro-film",
+        "warm-honor"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-terracotta-dot.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tape_07",
+      "name": "霓虹紫格纹胶带",
+      "label": "霓虹紫格纹胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "stage-heat",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-lavender-check.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tape_08",
+      "name": "极简炭黑编号胶带",
+      "label": "极简炭黑编号胶带",
+      "category": "贴纸图案",
+      "subcategory": "和纸胶带",
+      "role": "sticker",
+      "styles": [
+        "minimal-mag",
+        "retro-film",
+        "stage-heat"
+      ],
+      "tags": [
+        "和纸胶带",
+        "开源",
+        "SVG",
+        "角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/tapes/tape-ink-stamp.svg",
+      "width": 240,
+      "height": 52,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_01",
+      "name": "米白亚麻纸纹",
+      "label": "米白亚麻纸纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "campus-paper",
+        "warm-honor"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-cream-linen.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_02",
+      "name": "暖调牛皮纸底纹",
+      "label": "暖调牛皮纸底纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "retro-film",
+        "campus-paper"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-kraft-grain.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_03",
+      "name": "手账圆点阵底纹",
+      "label": "手账圆点阵底纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "fresh-teambuild",
+        "campus-paper",
+        "minimal-mag"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-dot-grid.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_04",
+      "name": "方格笔记本纸纹",
+      "label": "方格笔记本纸纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "fresh-teambuild",
+        "minimal-mag"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-graph-notebook.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_05",
+      "name": "宣纸丝缕纹理",
+      "label": "宣纸丝缕纹理",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "campus-paper",
+        "warm-honor"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-rice-fiber.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_06",
+      "name": "森系浅绿格子纹",
+      "label": "森系浅绿格子纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "fresh-teambuild",
+        "campus-paper"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-sage-plaid.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_07",
+      "name": "温柔浅粉格纹",
+      "label": "温柔浅粉格纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "fresh-teambuild",
+        "warm-honor"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-blush-check.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_08",
+      "name": "暗夜剧场暗纹",
+      "label": "暗夜剧场暗纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "stage-heat",
+        "retro-film"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-charcoal-noise.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_09",
+      "name": "暖杏竖条纹底纹",
+      "label": "暖杏竖条纹底纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "warm-honor",
+        "campus-paper"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-warm-stripe.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_tex_10",
+      "name": "信笺横线纸纹",
+      "label": "信笺横线纸纹",
+      "category": "纸纹背景",
+      "subcategory": "无缝纸纹",
+      "role": "background",
+      "styles": [
+        "campus-paper",
+        "retro-film",
+        "minimal-mag"
+      ],
+      "tags": [
+        "纸纹",
+        "底纹",
+        "开源",
+        "背景"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/textures/tex-vintage-post.svg",
+      "width": 60,
+      "height": 60,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_01",
+      "name": "双色闪耀四角星",
+      "label": "双色闪耀四角星",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "campus-paper",
+        "stage-heat",
+        "fresh-teambuild",
+        "retro-film",
+        "minimal-mag",
+        "warm-honor"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-sparkle-star.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_02",
+      "name": "手绘双心贴纸",
+      "label": "手绘双心贴纸",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild",
+        "warm-honor"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-double-heart.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_03",
+      "name": "礼物蝴蝶结贴纸",
+      "label": "礼物蝴蝶结贴纸",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "warm-honor",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-ribbon-bow.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_04",
+      "name": "复古拍立得相机图标",
+      "label": "复古拍立得相机图标",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "retro-film",
+        "fresh-teambuild",
+        "campus-paper"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-camera-snap.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_05",
+      "name": "森系橄榄枝叶贴纸",
+      "label": "森系橄榄枝叶贴纸",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild",
+        "warm-honor"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-laurel-leaf.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_06",
+      "name": "场记板胶片图标",
+      "label": "场记板胶片图标",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "retro-film",
+        "stage-heat"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-film-slate.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_07",
+      "name": "荣誉奖杯双色图标",
+      "label": "荣誉奖杯双色图标",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "warm-honor",
+        "minimal-mag"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-trophy-honor.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_08",
+      "name": "舞台声浪小喇叭",
+      "label": "舞台声浪小喇叭",
+      "category": "贴纸图案",
+      "subcategory": "双色手账图标",
+      "role": "sticker",
+      "styles": [
+        "stage-heat",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "图标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/ico-megaphone.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_09",
+      "name": "小红花印章角标",
+      "label": "小红花印章角标",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "campus-paper",
+        "warm-honor",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-stamp-flower.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_10",
+      "name": "手绘双色大引号",
+      "label": "手绘双色大引号",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "campus-paper",
+        "stage-heat",
+        "fresh-teambuild",
+        "retro-film",
+        "minimal-mag",
+        "warm-honor"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-quote-mark.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_11",
+      "name": "折页书签标签",
+      "label": "折页书签标签",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "campus-paper",
+        "minimal-mag",
+        "retro-film"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-bookmark-tag.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_12",
+      "name": "音符节拍艺术标",
+      "label": "音符节拍艺术标",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "stage-heat",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-music-note.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_13",
+      "name": "方向指南针小标",
+      "label": "方向指南针小标",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "fresh-teambuild",
+        "minimal-mag",
+        "retro-film"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-compass-dir.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_14",
+      "name": "火漆信封小徽章",
+      "label": "火漆信封小徽章",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "campus-paper",
+        "warm-honor",
+        "retro-film"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-envelope-seal.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_15",
+      "name": "夜幕星月徽章",
+      "label": "夜幕星月徽章",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "stage-heat",
+        "campus-paper",
+        "retro-film"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-moon-star.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_ico_16",
+      "name": "圆环序号底托",
+      "label": "圆环序号底托",
+      "category": "标题艺术字",
+      "subcategory": "手绘角标/艺术底托",
+      "role": "badge",
+      "styles": [
+        "minimal-mag",
+        "campus-paper",
+        "warm-honor"
+      ],
+      "tags": [
+        "开源",
+        "SVG",
+        "双色",
+        "标题角标"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/icons/badge-section-num.svg",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_01",
+      "name": "胶带拍立得底框",
+      "label": "胶带拍立得底框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "fresh-teambuild",
+        "campus-paper",
+        "retro-film"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-polaroid-tape.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_02",
+      "name": "撕纸手记边框",
+      "label": "撕纸手记边框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-torn-note.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_03",
+      "name": "复古电影胶片相框",
+      "label": "复古电影胶片相框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "retro-film",
+        "stage-heat"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-filmstrip.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_04",
+      "name": "双线古典信笺框",
+      "label": "双线古典信笺框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "campus-paper",
+        "warm-honor"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-double-stamp.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_05",
+      "name": "波浪明信片邮戳框",
+      "label": "波浪明信片邮戳框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild",
+        "warm-honor"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-postcard-scallop.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_06",
+      "name": "杂志四角取景框",
+      "label": "杂志四角取景框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "minimal-mag",
+        "stage-heat",
+        "retro-film"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-corner-brackets.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_07",
+      "name": "纪念票根打孔框",
+      "label": "纪念票根打孔框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "retro-film",
+        "stage-heat",
+        "warm-honor"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-ticket-stub.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_08",
+      "name": "拱门橱窗边框",
+      "label": "拱门橱窗边框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-botanical-arch.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_09",
+      "name": "线圈活页本边框",
+      "label": "线圈活页本边框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "fresh-teambuild",
+        "campus-paper"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-notebook-spiral.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_10",
+      "name": "信封展开边框",
+      "label": "信封展开边框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "campus-paper",
+        "warm-honor"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-vintage-envelope.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_11",
+      "name": "斜角贴纸双框",
+      "label": "斜角贴纸双框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "fresh-teambuild",
+        "campus-paper"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-tape-photo.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_frame_12",
+      "name": "美术馆卡纸画框",
+      "label": "美术馆卡纸画框",
+      "category": "边框相框",
+      "subcategory": "SVG 矢量相框",
+      "role": "frame",
+      "styles": [
+        "minimal-mag",
+        "campus-paper"
+      ],
+      "tags": [
+        "边框",
+        "相框",
+        "开源",
+        "SVG"
+      ],
+      "mediaType": "svg",
+      "tier": "open_free",
+      "url": "/assets/open/frames/frame-gallery-mat.svg",
+      "width": 360,
+      "height": 260,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_01",
+      "name": "暖金闪烁星芒动图",
+      "label": "暖金闪烁星芒动图",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "campus-paper",
+        "stage-heat",
+        "fresh-teambuild",
+        "retro-film",
+        "minimal-mag",
+        "warm-honor"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "星星",
+        "闪烁"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/sparkle-twinkle.gif",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_02",
+      "name": "珊瑚红弹跳引导箭头",
+      "label": "珊瑚红弹跳引导箭头",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "fresh-teambuild",
+        "warm-honor",
+        "stage-heat"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "箭头",
+        "引导"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/arrow-bounce.gif",
+      "width": 64,
+      "height": 48,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_03",
+      "name": "漂浮双心手账动图",
+      "label": "漂浮双心手账动图",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild",
+        "warm-honor"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "爱心"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/heart-float.gif",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_04",
+      "name": "庆典彩屑礼花动图",
+      "label": "庆典彩屑礼花动图",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "stage-heat",
+        "warm-honor",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "礼花",
+        "喜报"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/confetti-burst.gif",
+      "width": 96,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_05",
+      "name": "舞台节拍音浪条",
+      "label": "舞台节拍音浪条",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "stage-heat",
+        "fresh-teambuild"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "音乐",
+        "节拍"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/music-eq.gif",
+      "width": 64,
+      "height": 48,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_06",
+      "name": "旋转胶片盘微动图",
+      "label": "旋转胶片盘微动图",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "retro-film",
+        "campus-paper"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "胶片"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/film-reel-spin.gif",
+      "width": 64,
+      "height": 64,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_07",
+      "name": "流光波浪分割线动图",
+      "label": "流光波浪分割线动图",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "campus-paper",
+        "fresh-teambuild",
+        "minimal-mag"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "分割线"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/tape-wave.gif",
+      "width": 80,
+      "height": 36,
+      "source": "open_local",
+      "license": "MIT"
+    },
+    {
+      "id": "open_gif_08",
+      "name": "右滑查看引导动图",
+      "label": "右滑查看引导动图",
+      "category": "动图交互",
+      "subcategory": "开源微动图",
+      "role": "gif",
+      "styles": [
+        "campus-paper",
+        "stage-heat",
+        "fresh-teambuild",
+        "retro-film",
+        "minimal-mag",
+        "warm-honor"
+      ],
+      "tags": [
+        "动图",
+        "GIF",
+        "滑动提示"
+      ],
+      "mediaType": "gif",
+      "tier": "open_free",
+      "url": "/assets/open/gifs/scroll-hint.gif",
+      "width": 72,
+      "height": 44,
+      "source": "open_local",
+      "license": "MIT"
+    }
+  ]
+}
